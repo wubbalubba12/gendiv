@@ -1,0 +1,52 @@
+# 📊 COVID-19 Student Survey Analysis
+
+This project analyzes survey responses from computer science students regarding their academic experiences, mental health, and productivity **before**, **during**, and **after the COVID-19 pandemic**.
+
+It supports:
+- 🟦 Likert-scale analysis (e.g., "Strongly Agree" → numeric)
+- 🟨 Categorical distribution visualization
+- 🟩 Open-ended text extraction (from questions like "Please describe...")
+- 🗂️ Handling of repeated questions across timeframes (before/during/after)
+
+---
+
+## 🗂️ Project Structure
+gendiv/
+├── data/
+│ └── Survey.csv # The raw survey CSV file
+│ └── text_responses.txt # Extracted open-text answers (output)
+├── plots/ # Folder for generated visualizations
+├── scripts/
+│ ├── read_data.py # Reads and cleans the raw survey data
+│ └── survey_visualization.py # Main script for processing and visualization
+├── .gitignore
+├── environment.yml
+└── README.md # This file
+
+
+---
+
+## 🧠 Key Features
+
+- Automatically deduplicates repeated survey questions
+- Recognizes Likert-style responses (e.g., "1 - Never", "5 - Strongly agree")
+- Detects text questions based on their **instructions** in the question text (e.g., “You can answer in full sentences...”)
+- Creates visualizations using `seaborn` and saves them to `plots/`
+- Exports all text-based responses into a human-readable `.txt` file
+
+---
+
+## ✅ Setup Instructions
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/gendiv-survey-analysis.git
+cd gendiv-survey-analysis
+
+# 2. Create and activate the environment using environment.yml
+conda env create -f environment.yml
+conda activate gendiv
+
+# 3. Run the analysis script
+python scripts/survey_visualization.py
+```

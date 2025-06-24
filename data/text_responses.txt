@@ -1,0 +1,2236 @@
+
+=== Zeitstempel ===
+- 2025/06/10 12:29:43 AM OESZ
+- 2025/06/10 8:35:01 PM OESZ
+- 2025/06/11 12:54:41 AM OESZ
+- 2025/06/11 12:16:28 PM OESZ
+- 2025/06/11 2:29:41 PM OESZ
+- 2025/06/11 4:21:14 PM OESZ
+- 2025/06/11 6:33:58 PM OESZ
+- 2025/06/14 6:07:31 PM OESZ
+- 2025/06/15 11:14:02 PM OESZ
+- 2025/06/15 11:14:07 PM OESZ
+- 2025/06/15 11:14:10 PM OESZ
+- 2025/06/18 10:56:32 AM OESZ
+- 2025/06/18 10:56:32 AM OESZ
+- 2025/06/18 10:56:35 AM OESZ
+- 2025/06/19 12:32:49 PM OESZ
+
+=== Gesamtpunktzahl ===
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+
+=== This is a survey on the impact of the COVID-19 pandemic on undergraduate computer science students, with a focus on well-being, productivity, and study practices. The purpose of this study is to understand how students adapted during different phases of the pandemic and how these experiences continue to shape their academic and mental health outcomes today. Participation in this survey is entirely voluntary, and you may skip any question or withdraw at any point. It would help us a lot if you could complete all the fields. The survey will take approximately 10 to 15 minutes to complete. Your responses will remain anonymous and confidential, and all data will be used solely for research purposes. No personally identifying information will be collected. This study is being conducted by Juliane Bechert and Nikhil Sai Pothakamuri, undergraduate students at TU Darmstadt. If you have any questions about the study or your rights as a participant, please contact: Juliane Bechert – juliane.bechert@stud.tu-darmstadt.de Nikhil Sai Pothakamuri – nikhil.pothakamuri@stud.tu-darmstadt.de By clicking “Yes” below, you confirm that: - You are 18 years of age or older, - You have read and understood the information provided, - You voluntarily agree to participate in this study. ===
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+
+=== Are you currently enrolled in a university degree program? ===
+- No
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+
+=== Which degree program are you currently pursuing? (e.g., B.Sc. Computer Science) ===
+- Cognitive Science B.Sc.
+- Inf, Bsc
+- M.Sc. Computer Science
+- B.SC. Informatik
+- B.Sc. Computer Science
+- Computer Science
+- M.Sc. Computer Science
+- B.Sc. Infornatik
+- Computer science
+- Computer science, b.tech
+- Msc. Computer Engineering
+- Informatik bsc
+- Btech computer science
+- Data science
+
+=== What is your current year of study? ===
+- 3rd
+- 4th or more
+- 4th or more
+- 4th or more
+- 4th or more
+- 4th or more
+- 2nd
+- 2nd
+- 1st
+- 3rd
+- 1st
+- 4th or more
+- 3rd
+- 3rd
+
+=== Did you have a part-time job related to IT or software development during the pandemic (2020–2022)? ===
+- Yes
+- Yes
+- Yes
+- No
+- Yes
+- No
+- No
+- No
+- Yes
+- Yes
+- Yes
+- Yes
+- No
+- Yes
+- No
+
+=== What is your current age? ===
+- 25-27
+- 27+
+- 22-24
+- 22-24
+- 27+
+- 22-24
+- 22-24
+- 22-24
+- 19-21
+- 22-24
+- 22-24
+- 22-24
+- 25-27
+- 19-21
+- 19-21
+
+=== With which gender do you identify? ===
+- Female
+- Male
+- Prefer not to say
+- Female
+- Male
+- Female
+- Female
+- Male
+- Female
+- Male
+- Prefer not to say
+- Male
+- Female
+- Male
+- Male
+
+=== Did you primarily attend university remotely or in person during the pandemic? ===
+- Mostly remote
+- Mostly remote
+- Hybrid
+- Hybrid
+- Mostly remote
+- Mostly remote
+- Hybrid
+- Mostly remote
+- Mostly remote
+- Mostly remote
+- Hybrid
+- Hybrid
+- Mostly remote
+- Hybrid
+- Hybrid
+
+=== Where were you primarily located during the COVID-19 pandemic? (Please specify the country you spent most of your time in during this period.) ===
+- Germany
+- Germany
+- Germany
+- Germany
+- Germany
+- Germany
+- Frankfurt, Germany
+- Germany
+- Germany
+- Germany
+- germany
+- India
+- Germany
+- India
+- India
+
+=== I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index) ===
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 5 - Always
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 4 - Often
+- 2 - Rarely
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+
+=== In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index) ===
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 4 - Often
+- 2 - Rarely
+- 3 - Sometimes
+- 4 - Often
+- 5 - Always
+- 3 - Sometimes
+- 3 - Sometimes
+
+=== I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index) ===
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 2 - Rarely
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 1 - Never
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 2 - Rarely
+- 3 - Sometimes
+
+=== I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index) ===
+- 3 - Sometimes
+- 2 - Rarely
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 4 - Often
+- 1 - Never
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+
+=== My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index) ===
+- 4 - Often
+- 4 - Often
+- 5 - Always
+- 4 - Often
+- 2 - Rarely
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 4 - Often
+- 2 - Rarely
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+
+=== I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)) ===
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 2 - Disagree
+- 5 - Strongly Agree
+- 3 - Neither disagree or agree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 3 - Neither disagree or agree
+- 4 - Agree
+- 3 - Neither disagree or agree
+
+=== I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020)) ===
+- 4 - Agree
+- 1 - Strongly disagree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 4 - Agree
+- 1 - Strongly disagree
+- 2 - Disagree
+- 1 - Strongly disagree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 3 - Neither disagree or agree
+
+=== I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020)) ===
+- Yes
+- No
+- No
+- No
+- No
+- Yes
+- No
+- Yes
+- Yes
+- Yes
+- No
+
+=== If yes, please specify what kind mental well-being support was provided from my employer. (Question inspired from Russo et al. (2021), Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- online meetups
+mental health resources
+- Flexibility
+- wellness check-ins
+
+=== What were your main sources of stress? (Question adapted from Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- Exams, other people
+- Deadlines, Isolation
+- uni, my partner, being in high semesters, fear of death
+- Exam Preparation, Workload
+- The pressure of my studies and responsibilities.
+- Submissions for Uni, exams
+- exams,
+- Isolation, tech issues
+- Motivation
+- family
+- Emotional disconnect
+- College
+
+=== What strategies did you use to manage your stress? (Question inspired from Hohne et al. (2022), Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- Gaming, Music
+- meditation
+- Sports, gaming, friends, but nothing distincitve really
+- exercise
+- Journaling, meditation
+- music
+- Netflix, coding
+- Play games
+
+=== How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)) ===
+- 4 - High
+- 4 - High
+- 4 - High
+- 4 - High
+- 2 - Low
+- 4 - High
+- 3 - Average
+- 3 - Average
+- 4 - High
+- 2 - Low
+- 4 - High
+- 4 - High
+- 4 - High
+- 3 - Average
+- 3 - Average
+
+=== How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)) ===
+- 4 - High
+- 4 - High
+- 5 - Very High
+- 3 - Average
+- 3 - Average
+- 3 - Average
+- 4 - High
+- 4 - High
+- 3 - Average
+- 3 - Average
+- 4 - High
+- 3 - Average
+- 3 - Average
+- 4 - High
+- 3 - Average
+
+=== Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)) ===
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 2 - Rarely
+- 4 - Often
+- 1 - Never
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+
+=== Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)) ===
+- 2 - Disagree
+- 5 - Strongly agree
+- 2 - Disagree
+- 4 - Agree
+- 1 - Strongly disagree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 4 - Agree
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 5 - Strongly agree
+- 3 - Neither disagree or agree
+
+=== How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)) ===
+- 4 - Confident
+- 4 - Confident
+- 3 - Neither unconfident or confident
+- 3 - Neither unconfident or confident
+- 4 - Confident
+- 4 - Confident
+- 3 - Neither unconfident or confident
+- 2 - Unconfident
+- 4 - Confident
+- 2 - Unconfident
+- 4 - Confident
+- 4 - Confident
+- 2 - Unconfident
+- 3 - Neither unconfident or confident
+- 3 - Neither unconfident or confident
+
+=== What helped you stay productive with your studies? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- Spend as much time as needed
+- I was not very productive
+- going outside
+- Study groups
+- Structure
+- study groups
+- My mom
+
+=== What were your biggest challenges in staying academically productive? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- Avoiding distractions
+- uni + work + self employment was too much, my ex partner stressed me out a lot
+- Motivation
+- keeping up with exercises
+- Time management
+- Motivation
+- distractions
+- Concentrating
+
+=== Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)) ===
+- 4 - Often
+- 3 - Sometimes
+- 2 - Rarely
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 2 - Rarely
+- 3 - Sometimes
+- 3 - Sometimes
+
+=== How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)) ===
+- 4 - Confident
+- 5 - Very confident
+- 2 - Unconfident
+- 5 - Very confident
+- 3 - Neither unconfident or confident
+- 3 - Neither unconfident or confident
+- 4 - Confident
+- 2 - Unconfident
+- 4 - Confident
+- 4 - Confident
+- 3 - Neither unconfident or confident
+- 4 - Confident
+- 3 - Neither unconfident or confident
+
+=== How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)) ===
+- 4 - Effective
+- 4 - Effective
+- 2 - Ineffective
+- 4 - Effective
+- 2 - Ineffective
+- 4 - Effective
+- 3 - Neither ineffective or effective
+- 4 - Effective
+- 4 - Effective
+- 2 - Ineffective
+- 4 - Effective
+- 4 - Effective
+- 2 - Ineffective
+- 3 - Neither ineffective or effective
+- 3 - Neither ineffective or effective
+
+=== Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)) ===
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 3 - Neither disagree or agree
+- 4 - Agree
+- 4 - Agree
+- 1 - Strongly disagree
+- 2 - Disagree
+- 2 - Disagree
+- 2 - Disagree
+- 4 - Agree
+- 2 - Disagree
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 3 - Neither disagree or agree
+
+=== Did you adopt new tools (e.g., software, platforms) or habits? (Question inspired by Siegel et al. (2022), Palova et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- No
+- meditation, self-care, sleeping cycle with the sun
+- Yes because first semester, so all Uni related stuff
+- Google Calendar, Anki
+- Obsidian
+- Trello
+- GitHub
+- No
+
+=== I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)) ===
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 3 - Neither diagree or agree
+- 4 - Agree
+- 3 - Neither diagree or agree
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 2 - Disagree
+- 4 - Agree
+- 3 - Neither diagree or agree
+
+=== I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index).1 ===
+- 4 - Often
+- 2 - Rarely
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 1 - Never
+- 3 - Sometimes
+- 2 - Rarely
+- 3 - Sometimes
+- 3 - Sometimes
+- 2 - Rarely
+- 2 - Rarely
+- 3 - Sometimes
+
+=== Zeitstempel ===
+- 2025/06/10 12:29:43 AM OESZ
+- 2025/06/10 8:35:01 PM OESZ
+- 2025/06/11 12:54:41 AM OESZ
+- 2025/06/11 12:16:28 PM OESZ
+- 2025/06/11 2:29:41 PM OESZ
+- 2025/06/11 4:21:14 PM OESZ
+- 2025/06/11 6:33:58 PM OESZ
+- 2025/06/14 6:07:31 PM OESZ
+- 2025/06/15 11:14:02 PM OESZ
+- 2025/06/15 11:14:07 PM OESZ
+- 2025/06/15 11:14:10 PM OESZ
+- 2025/06/18 10:56:32 AM OESZ
+- 2025/06/18 10:56:32 AM OESZ
+- 2025/06/18 10:56:35 AM OESZ
+- 2025/06/19 12:32:49 PM OESZ
+
+=== Gesamtpunktzahl ===
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+
+=== This is a survey on the impact of the COVID-19 pandemic on undergraduate computer science students, with a focus on well-being, productivity, and study practices. The purpose of this study is to understand how students adapted during different phases of the pandemic and how these experiences continue to shape their academic and mental health outcomes today. Participation in this survey is entirely voluntary, and you may skip any question or withdraw at any point. It would help us a lot if you could complete all the fields. The survey will take approximately 10 to 15 minutes to complete. Your responses will remain anonymous and confidential, and all data will be used solely for research purposes. No personally identifying information will be collected. This study is being conducted by Juliane Bechert and Nikhil Sai Pothakamuri, undergraduate students at TU Darmstadt. If you have any questions about the study or your rights as a participant, please contact: Juliane Bechert – juliane.bechert@stud.tu-darmstadt.de Nikhil Sai Pothakamuri – nikhil.pothakamuri@stud.tu-darmstadt.de By clicking “Yes” below, you confirm that: - You are 18 years of age or older, - You have read and understood the information provided, - You voluntarily agree to participate in this study. ===
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+
+=== Are you currently enrolled in a university degree program? ===
+- No
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+
+=== Which degree program are you currently pursuing? (e.g., B.Sc. Computer Science) ===
+- Cognitive Science B.Sc.
+- Inf, Bsc
+- M.Sc. Computer Science
+- B.SC. Informatik
+- B.Sc. Computer Science
+- Computer Science
+- M.Sc. Computer Science
+- B.Sc. Infornatik
+- Computer science
+- Computer science, b.tech
+- Msc. Computer Engineering
+- Informatik bsc
+- Btech computer science
+- Data science
+
+=== What is your current year of study? ===
+- 3rd
+- 4th or more
+- 4th or more
+- 4th or more
+- 4th or more
+- 4th or more
+- 2nd
+- 2nd
+- 1st
+- 3rd
+- 1st
+- 4th or more
+- 3rd
+- 3rd
+
+=== Did you have a part-time job related to IT or software development during the pandemic (2020–2022)? ===
+- Yes
+- Yes
+- Yes
+- No
+- Yes
+- No
+- No
+- No
+- Yes
+- Yes
+- Yes
+- Yes
+- No
+- Yes
+- No
+
+=== What is your current age? ===
+- 25-27
+- 27+
+- 22-24
+- 22-24
+- 27+
+- 22-24
+- 22-24
+- 22-24
+- 19-21
+- 22-24
+- 22-24
+- 22-24
+- 25-27
+- 19-21
+- 19-21
+
+=== With which gender do you identify? ===
+- Female
+- Male
+- Prefer not to say
+- Female
+- Male
+- Female
+- Female
+- Male
+- Female
+- Male
+- Prefer not to say
+- Male
+- Female
+- Male
+- Male
+
+=== Did you primarily attend university remotely or in person during the pandemic? ===
+- Mostly remote
+- Mostly remote
+- Hybrid
+- Hybrid
+- Mostly remote
+- Mostly remote
+- Hybrid
+- Mostly remote
+- Mostly remote
+- Mostly remote
+- Hybrid
+- Hybrid
+- Mostly remote
+- Hybrid
+- Hybrid
+
+=== Where were you primarily located during the COVID-19 pandemic? (Please specify the country you spent most of your time in during this period.) ===
+- Germany
+- Germany
+- Germany
+- Germany
+- Germany
+- Germany
+- Frankfurt, Germany
+- Germany
+- Germany
+- Germany
+- germany
+- India
+- Germany
+- India
+- India
+
+=== I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index) ===
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 5 - Always
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 4 - Often
+- 2 - Rarely
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+
+=== In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index) ===
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 4 - Often
+- 2 - Rarely
+- 3 - Sometimes
+- 4 - Often
+- 5 - Always
+- 3 - Sometimes
+- 3 - Sometimes
+
+=== I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index) ===
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 2 - Rarely
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 1 - Never
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 2 - Rarely
+- 3 - Sometimes
+
+=== I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index) ===
+- 3 - Sometimes
+- 2 - Rarely
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 4 - Often
+- 1 - Never
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+
+=== My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index) ===
+- 4 - Often
+- 4 - Often
+- 5 - Always
+- 4 - Often
+- 2 - Rarely
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 4 - Often
+- 2 - Rarely
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+
+=== I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)) ===
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 2 - Disagree
+- 5 - Strongly Agree
+- 3 - Neither disagree or agree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 3 - Neither disagree or agree
+- 4 - Agree
+- 3 - Neither disagree or agree
+
+=== I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020)) ===
+- 4 - Agree
+- 1 - Strongly disagree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 4 - Agree
+- 1 - Strongly disagree
+- 2 - Disagree
+- 1 - Strongly disagree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 3 - Neither disagree or agree
+
+=== I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020)) ===
+- Yes
+- No
+- No
+- No
+- No
+- Yes
+- No
+- Yes
+- Yes
+- Yes
+- No
+
+=== If yes, please specify what kind mental well-being support was provided from my employer. (Question inspired from Russo et al. (2021), Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- online meetups
+mental health resources
+- Flexibility
+- wellness check-ins
+
+=== What were your main sources of stress? (Question adapted from Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- Exams, other people
+- Deadlines, Isolation
+- uni, my partner, being in high semesters, fear of death
+- Exam Preparation, Workload
+- The pressure of my studies and responsibilities.
+- Submissions for Uni, exams
+- exams,
+- Isolation, tech issues
+- Motivation
+- family
+- Emotional disconnect
+- College
+
+=== What strategies did you use to manage your stress? (Question inspired from Hohne et al. (2022), Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- Gaming, Music
+- meditation
+- Sports, gaming, friends, but nothing distincitve really
+- exercise
+- Journaling, meditation
+- music
+- Netflix, coding
+- Play games
+
+=== How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)) ===
+- 4 - High
+- 4 - High
+- 4 - High
+- 4 - High
+- 2 - Low
+- 4 - High
+- 3 - Average
+- 3 - Average
+- 4 - High
+- 2 - Low
+- 4 - High
+- 4 - High
+- 4 - High
+- 3 - Average
+- 3 - Average
+
+=== How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)) ===
+- 4 - High
+- 4 - High
+- 5 - Very High
+- 3 - Average
+- 3 - Average
+- 3 - Average
+- 4 - High
+- 4 - High
+- 3 - Average
+- 3 - Average
+- 4 - High
+- 3 - Average
+- 3 - Average
+- 4 - High
+- 3 - Average
+
+=== Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)) ===
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 2 - Rarely
+- 4 - Often
+- 1 - Never
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+
+=== Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)) ===
+- 2 - Disagree
+- 5 - Strongly agree
+- 2 - Disagree
+- 4 - Agree
+- 1 - Strongly disagree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 4 - Agree
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 5 - Strongly agree
+- 3 - Neither disagree or agree
+
+=== How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)) ===
+- 4 - Confident
+- 4 - Confident
+- 3 - Neither unconfident or confident
+- 3 - Neither unconfident or confident
+- 4 - Confident
+- 4 - Confident
+- 3 - Neither unconfident or confident
+- 2 - Unconfident
+- 4 - Confident
+- 2 - Unconfident
+- 4 - Confident
+- 4 - Confident
+- 2 - Unconfident
+- 3 - Neither unconfident or confident
+- 3 - Neither unconfident or confident
+
+=== What helped you stay productive with your studies? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- Spend as much time as needed
+- I was not very productive
+- going outside
+- Study groups
+- Structure
+- study groups
+- My mom
+
+=== What were your biggest challenges in staying academically productive? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- Avoiding distractions
+- uni + work + self employment was too much, my ex partner stressed me out a lot
+- Motivation
+- keeping up with exercises
+- Time management
+- Motivation
+- distractions
+- Concentrating
+
+=== Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)) ===
+- 4 - Often
+- 3 - Sometimes
+- 2 - Rarely
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 2 - Rarely
+- 3 - Sometimes
+- 3 - Sometimes
+
+=== How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)) ===
+- 4 - Confident
+- 5 - Very confident
+- 2 - Unconfident
+- 5 - Very confident
+- 3 - Neither unconfident or confident
+- 3 - Neither unconfident or confident
+- 4 - Confident
+- 2 - Unconfident
+- 4 - Confident
+- 4 - Confident
+- 3 - Neither unconfident or confident
+- 4 - Confident
+- 3 - Neither unconfident or confident
+
+=== How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)) ===
+- 4 - Effective
+- 4 - Effective
+- 2 - Ineffective
+- 4 - Effective
+- 2 - Ineffective
+- 4 - Effective
+- 3 - Neither ineffective or effective
+- 4 - Effective
+- 4 - Effective
+- 2 - Ineffective
+- 4 - Effective
+- 4 - Effective
+- 2 - Ineffective
+- 3 - Neither ineffective or effective
+- 3 - Neither ineffective or effective
+
+=== Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)) ===
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 3 - Neither disagree or agree
+- 4 - Agree
+- 4 - Agree
+- 1 - Strongly disagree
+- 2 - Disagree
+- 2 - Disagree
+- 2 - Disagree
+- 4 - Agree
+- 2 - Disagree
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 3 - Neither disagree or agree
+
+=== Did you adopt new tools (e.g., software, platforms) or habits? (Question inspired by Siegel et al. (2022), Palova et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- No
+- meditation, self-care, sleeping cycle with the sun
+- Yes because first semester, so all Uni related stuff
+- Google Calendar, Anki
+- Obsidian
+- Trello
+- GitHub
+- No
+
+=== I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)) ===
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 3 - Neither diagree or agree
+- 4 - Agree
+- 3 - Neither diagree or agree
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 2 - Disagree
+- 4 - Agree
+- 3 - Neither diagree or agree
+
+=== I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index).1 ===
+- 4 - Often
+- 2 - Rarely
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 1 - Never
+- 3 - Sometimes
+- 2 - Rarely
+- 3 - Sometimes
+- 3 - Sometimes
+- 2 - Rarely
+- 2 - Rarely
+- 3 - Sometimes
+
+=== Zeitstempel ===
+- 2025/06/10 12:29:43 AM OESZ
+- 2025/06/10 8:35:01 PM OESZ
+- 2025/06/11 12:54:41 AM OESZ
+- 2025/06/11 12:16:28 PM OESZ
+- 2025/06/11 2:29:41 PM OESZ
+- 2025/06/11 4:21:14 PM OESZ
+- 2025/06/11 6:33:58 PM OESZ
+- 2025/06/14 6:07:31 PM OESZ
+- 2025/06/15 11:14:02 PM OESZ
+- 2025/06/15 11:14:07 PM OESZ
+- 2025/06/15 11:14:10 PM OESZ
+- 2025/06/18 10:56:32 AM OESZ
+- 2025/06/18 10:56:32 AM OESZ
+- 2025/06/18 10:56:35 AM OESZ
+- 2025/06/19 12:32:49 PM OESZ
+
+=== Gesamtpunktzahl ===
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+
+=== This is a survey on the impact of the COVID-19 pandemic on undergraduate computer science students, with a focus on well-being, productivity, and study practices. The purpose of this study is to understand how students adapted during different phases of the pandemic and how these experiences continue to shape their academic and mental health outcomes today. Participation in this survey is entirely voluntary, and you may skip any question or withdraw at any point. It would help us a lot if you could complete all the fields. The survey will take approximately 10 to 15 minutes to complete. Your responses will remain anonymous and confidential, and all data will be used solely for research purposes. No personally identifying information will be collected. This study is being conducted by Juliane Bechert and Nikhil Sai Pothakamuri, undergraduate students at TU Darmstadt. If you have any questions about the study or your rights as a participant, please contact: Juliane Bechert – juliane.bechert@stud.tu-darmstadt.de Nikhil Sai Pothakamuri – nikhil.pothakamuri@stud.tu-darmstadt.de By clicking “Yes” below, you confirm that: - You are 18 years of age or older, - You have read and understood the information provided, - You voluntarily agree to participate in this study. ===
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+
+=== Are you currently enrolled in a university degree program? ===
+- No
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+
+=== Which degree program are you currently pursuing? (e.g., B.Sc. Computer Science) ===
+- Cognitive Science B.Sc.
+- Inf, Bsc
+- M.Sc. Computer Science
+- B.SC. Informatik
+- B.Sc. Computer Science
+- Computer Science
+- M.Sc. Computer Science
+- B.Sc. Infornatik
+- Computer science
+- Computer science, b.tech
+- Msc. Computer Engineering
+- Informatik bsc
+- Btech computer science
+- Data science
+
+=== What is your current year of study? ===
+- 3rd
+- 4th or more
+- 4th or more
+- 4th or more
+- 4th or more
+- 4th or more
+- 2nd
+- 2nd
+- 1st
+- 3rd
+- 1st
+- 4th or more
+- 3rd
+- 3rd
+
+=== Did you have a part-time job related to IT or software development during the pandemic (2020–2022)? ===
+- Yes
+- Yes
+- Yes
+- No
+- Yes
+- No
+- No
+- No
+- Yes
+- Yes
+- Yes
+- Yes
+- No
+- Yes
+- No
+
+=== What is your current age? ===
+- 25-27
+- 27+
+- 22-24
+- 22-24
+- 27+
+- 22-24
+- 22-24
+- 22-24
+- 19-21
+- 22-24
+- 22-24
+- 22-24
+- 25-27
+- 19-21
+- 19-21
+
+=== With which gender do you identify? ===
+- Female
+- Male
+- Prefer not to say
+- Female
+- Male
+- Female
+- Female
+- Male
+- Female
+- Male
+- Prefer not to say
+- Male
+- Female
+- Male
+- Male
+
+=== Did you primarily attend university remotely or in person during the pandemic? ===
+- Mostly remote
+- Mostly remote
+- Hybrid
+- Hybrid
+- Mostly remote
+- Mostly remote
+- Hybrid
+- Mostly remote
+- Mostly remote
+- Mostly remote
+- Hybrid
+- Hybrid
+- Mostly remote
+- Hybrid
+- Hybrid
+
+=== Where were you primarily located during the COVID-19 pandemic? (Please specify the country you spent most of your time in during this period.) ===
+- Germany
+- Germany
+- Germany
+- Germany
+- Germany
+- Germany
+- Frankfurt, Germany
+- Germany
+- Germany
+- Germany
+- germany
+- India
+- Germany
+- India
+- India
+
+=== I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index) ===
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 5 - Always
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 4 - Often
+- 2 - Rarely
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+
+=== In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index) ===
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 4 - Often
+- 2 - Rarely
+- 3 - Sometimes
+- 4 - Often
+- 5 - Always
+- 3 - Sometimes
+- 3 - Sometimes
+
+=== I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index) ===
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 2 - Rarely
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 1 - Never
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 2 - Rarely
+- 3 - Sometimes
+
+=== I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index) ===
+- 3 - Sometimes
+- 2 - Rarely
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 4 - Often
+- 1 - Never
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+
+=== My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index) ===
+- 4 - Often
+- 4 - Often
+- 5 - Always
+- 4 - Often
+- 2 - Rarely
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 4 - Often
+- 2 - Rarely
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+
+=== I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)) ===
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 2 - Disagree
+- 5 - Strongly Agree
+- 3 - Neither disagree or agree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 3 - Neither disagree or agree
+- 4 - Agree
+- 3 - Neither disagree or agree
+
+=== I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020)) ===
+- 4 - Agree
+- 1 - Strongly disagree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 4 - Agree
+- 1 - Strongly disagree
+- 2 - Disagree
+- 1 - Strongly disagree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 3 - Neither disagree or agree
+
+=== I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020)) ===
+- Yes
+- No
+- No
+- No
+- No
+- Yes
+- No
+- Yes
+- Yes
+- Yes
+- No
+
+=== If yes, please specify what kind mental well-being support was provided from my employer. (Question inspired from Russo et al. (2021), Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- online meetups
+mental health resources
+- Flexibility
+- wellness check-ins
+
+=== What were your main sources of stress? (Question adapted from Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- Exams, other people
+- Deadlines, Isolation
+- uni, my partner, being in high semesters, fear of death
+- Exam Preparation, Workload
+- The pressure of my studies and responsibilities.
+- Submissions for Uni, exams
+- exams,
+- Isolation, tech issues
+- Motivation
+- family
+- Emotional disconnect
+- College
+
+=== What strategies did you use to manage your stress? (Question inspired from Hohne et al. (2022), Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- Gaming, Music
+- meditation
+- Sports, gaming, friends, but nothing distincitve really
+- exercise
+- Journaling, meditation
+- music
+- Netflix, coding
+- Play games
+
+=== How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)) ===
+- 4 - High
+- 4 - High
+- 4 - High
+- 4 - High
+- 2 - Low
+- 4 - High
+- 3 - Average
+- 3 - Average
+- 4 - High
+- 2 - Low
+- 4 - High
+- 4 - High
+- 4 - High
+- 3 - Average
+- 3 - Average
+
+=== How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)) ===
+- 4 - High
+- 4 - High
+- 5 - Very High
+- 3 - Average
+- 3 - Average
+- 3 - Average
+- 4 - High
+- 4 - High
+- 3 - Average
+- 3 - Average
+- 4 - High
+- 3 - Average
+- 3 - Average
+- 4 - High
+- 3 - Average
+
+=== Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)) ===
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 2 - Rarely
+- 4 - Often
+- 1 - Never
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+
+=== Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)) ===
+- 2 - Disagree
+- 5 - Strongly agree
+- 2 - Disagree
+- 4 - Agree
+- 1 - Strongly disagree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 4 - Agree
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 5 - Strongly agree
+- 3 - Neither disagree or agree
+
+=== How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)) ===
+- 4 - Confident
+- 4 - Confident
+- 3 - Neither unconfident or confident
+- 3 - Neither unconfident or confident
+- 4 - Confident
+- 4 - Confident
+- 3 - Neither unconfident or confident
+- 2 - Unconfident
+- 4 - Confident
+- 2 - Unconfident
+- 4 - Confident
+- 4 - Confident
+- 2 - Unconfident
+- 3 - Neither unconfident or confident
+- 3 - Neither unconfident or confident
+
+=== What helped you stay productive with your studies? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- Spend as much time as needed
+- I was not very productive
+- going outside
+- Study groups
+- Structure
+- study groups
+- My mom
+
+=== What were your biggest challenges in staying academically productive? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- Avoiding distractions
+- uni + work + self employment was too much, my ex partner stressed me out a lot
+- Motivation
+- keeping up with exercises
+- Time management
+- Motivation
+- distractions
+- Concentrating
+
+=== Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)) ===
+- 4 - Often
+- 3 - Sometimes
+- 2 - Rarely
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 2 - Rarely
+- 3 - Sometimes
+- 3 - Sometimes
+
+=== How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)) ===
+- 4 - Confident
+- 5 - Very confident
+- 2 - Unconfident
+- 5 - Very confident
+- 3 - Neither unconfident or confident
+- 3 - Neither unconfident or confident
+- 4 - Confident
+- 2 - Unconfident
+- 4 - Confident
+- 4 - Confident
+- 3 - Neither unconfident or confident
+- 4 - Confident
+- 3 - Neither unconfident or confident
+
+=== How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)) ===
+- 4 - Effective
+- 4 - Effective
+- 2 - Ineffective
+- 4 - Effective
+- 2 - Ineffective
+- 4 - Effective
+- 3 - Neither ineffective or effective
+- 4 - Effective
+- 4 - Effective
+- 2 - Ineffective
+- 4 - Effective
+- 4 - Effective
+- 2 - Ineffective
+- 3 - Neither ineffective or effective
+- 3 - Neither ineffective or effective
+
+=== Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)) ===
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 3 - Neither disagree or agree
+- 4 - Agree
+- 4 - Agree
+- 1 - Strongly disagree
+- 2 - Disagree
+- 2 - Disagree
+- 2 - Disagree
+- 4 - Agree
+- 2 - Disagree
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 3 - Neither disagree or agree
+
+=== Did you adopt new tools (e.g., software, platforms) or habits? (Question inspired by Siegel et al. (2022), Palova et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- No
+- meditation, self-care, sleeping cycle with the sun
+- Yes because first semester, so all Uni related stuff
+- Google Calendar, Anki
+- Obsidian
+- Trello
+- GitHub
+- No
+
+=== I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)) ===
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 3 - Neither diagree or agree
+- 4 - Agree
+- 3 - Neither diagree or agree
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 2 - Disagree
+- 4 - Agree
+- 3 - Neither diagree or agree
+
+=== I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index).1 ===
+- 4 - Often
+- 2 - Rarely
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 1 - Never
+- 3 - Sometimes
+- 2 - Rarely
+- 3 - Sometimes
+- 3 - Sometimes
+- 2 - Rarely
+- 2 - Rarely
+- 3 - Sometimes
+
+=== Zeitstempel ===
+- 2025/06/10 12:29:43 AM OESZ
+- 2025/06/10 8:35:01 PM OESZ
+- 2025/06/11 12:54:41 AM OESZ
+- 2025/06/11 12:16:28 PM OESZ
+- 2025/06/11 2:29:41 PM OESZ
+- 2025/06/11 4:21:14 PM OESZ
+- 2025/06/11 6:33:58 PM OESZ
+- 2025/06/14 6:07:31 PM OESZ
+- 2025/06/15 11:14:02 PM OESZ
+- 2025/06/15 11:14:07 PM OESZ
+- 2025/06/15 11:14:10 PM OESZ
+- 2025/06/18 10:56:32 AM OESZ
+- 2025/06/18 10:56:32 AM OESZ
+- 2025/06/18 10:56:35 AM OESZ
+- 2025/06/19 12:32:49 PM OESZ
+
+=== Gesamtpunktzahl ===
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+- 0.00 / 0
+
+=== This is a survey on the impact of the COVID-19 pandemic on undergraduate computer science students, with a focus on well-being, productivity, and study practices. The purpose of this study is to understand how students adapted during different phases of the pandemic and how these experiences continue to shape their academic and mental health outcomes today. Participation in this survey is entirely voluntary, and you may skip any question or withdraw at any point. It would help us a lot if you could complete all the fields. The survey will take approximately 10 to 15 minutes to complete. Your responses will remain anonymous and confidential, and all data will be used solely for research purposes. No personally identifying information will be collected. This study is being conducted by Juliane Bechert and Nikhil Sai Pothakamuri, undergraduate students at TU Darmstadt. If you have any questions about the study or your rights as a participant, please contact: Juliane Bechert – juliane.bechert@stud.tu-darmstadt.de Nikhil Sai Pothakamuri – nikhil.pothakamuri@stud.tu-darmstadt.de By clicking “Yes” below, you confirm that: - You are 18 years of age or older, - You have read and understood the information provided, - You voluntarily agree to participate in this study. ===
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+- I have read the information above and AGREE to participate in the survey.
+
+=== Are you currently enrolled in a university degree program? ===
+- No
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+
+=== Which degree program are you currently pursuing? (e.g., B.Sc. Computer Science) ===
+- Cognitive Science B.Sc.
+- Inf, Bsc
+- M.Sc. Computer Science
+- B.SC. Informatik
+- B.Sc. Computer Science
+- Computer Science
+- M.Sc. Computer Science
+- B.Sc. Infornatik
+- Computer science
+- Computer science, b.tech
+- Msc. Computer Engineering
+- Informatik bsc
+- Btech computer science
+- Data science
+
+=== What is your current year of study? ===
+- 3rd
+- 4th or more
+- 4th or more
+- 4th or more
+- 4th or more
+- 4th or more
+- 2nd
+- 2nd
+- 1st
+- 3rd
+- 1st
+- 4th or more
+- 3rd
+- 3rd
+
+=== Did you have a part-time job related to IT or software development during the pandemic (2020–2022)? ===
+- Yes
+- Yes
+- Yes
+- No
+- Yes
+- No
+- No
+- No
+- Yes
+- Yes
+- Yes
+- Yes
+- No
+- Yes
+- No
+
+=== What is your current age? ===
+- 25-27
+- 27+
+- 22-24
+- 22-24
+- 27+
+- 22-24
+- 22-24
+- 22-24
+- 19-21
+- 22-24
+- 22-24
+- 22-24
+- 25-27
+- 19-21
+- 19-21
+
+=== With which gender do you identify? ===
+- Female
+- Male
+- Prefer not to say
+- Female
+- Male
+- Female
+- Female
+- Male
+- Female
+- Male
+- Prefer not to say
+- Male
+- Female
+- Male
+- Male
+
+=== Did you primarily attend university remotely or in person during the pandemic? ===
+- Mostly remote
+- Mostly remote
+- Hybrid
+- Hybrid
+- Mostly remote
+- Mostly remote
+- Hybrid
+- Mostly remote
+- Mostly remote
+- Mostly remote
+- Hybrid
+- Hybrid
+- Mostly remote
+- Hybrid
+- Hybrid
+
+=== Where were you primarily located during the COVID-19 pandemic? (Please specify the country you spent most of your time in during this period.) ===
+- Germany
+- Germany
+- Germany
+- Germany
+- Germany
+- Germany
+- Frankfurt, Germany
+- Germany
+- Germany
+- Germany
+- germany
+- India
+- Germany
+- India
+- India
+
+=== I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index) ===
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 5 - Always
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 4 - Often
+- 2 - Rarely
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+
+=== In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index) ===
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 4 - Often
+- 2 - Rarely
+- 3 - Sometimes
+- 4 - Often
+- 5 - Always
+- 3 - Sometimes
+- 3 - Sometimes
+
+=== I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index) ===
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 2 - Rarely
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 1 - Never
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 2 - Rarely
+- 3 - Sometimes
+
+=== I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index) ===
+- 3 - Sometimes
+- 2 - Rarely
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 4 - Often
+- 1 - Never
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+
+=== My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index) ===
+- 4 - Often
+- 4 - Often
+- 5 - Always
+- 4 - Often
+- 2 - Rarely
+- 3 - Sometimes
+- 4 - Often
+- 4 - Often
+- 4 - Often
+- 2 - Rarely
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+
+=== I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)) ===
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 2 - Disagree
+- 5 - Strongly Agree
+- 3 - Neither disagree or agree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 3 - Neither disagree or agree
+- 4 - Agree
+- 3 - Neither disagree or agree
+
+=== I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020)) ===
+- 4 - Agree
+- 1 - Strongly disagree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 4 - Agree
+- 1 - Strongly disagree
+- 2 - Disagree
+- 1 - Strongly disagree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 3 - Neither disagree or agree
+
+=== I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020)) ===
+- Yes
+- No
+- No
+- No
+- No
+- Yes
+- No
+- Yes
+- Yes
+- Yes
+- No
+
+=== If yes, please specify what kind mental well-being support was provided from my employer. (Question inspired from Russo et al. (2021), Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- online meetups
+mental health resources
+- Flexibility
+- wellness check-ins
+
+=== What were your main sources of stress? (Question adapted from Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- Exams, other people
+- Deadlines, Isolation
+- uni, my partner, being in high semesters, fear of death
+- Exam Preparation, Workload
+- The pressure of my studies and responsibilities.
+- Submissions for Uni, exams
+- exams,
+- Isolation, tech issues
+- Motivation
+- family
+- Emotional disconnect
+- College
+
+=== What strategies did you use to manage your stress? (Question inspired from Hohne et al. (2022), Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- Gaming, Music
+- meditation
+- Sports, gaming, friends, but nothing distincitve really
+- exercise
+- Journaling, meditation
+- music
+- Netflix, coding
+- Play games
+
+=== How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)) ===
+- 4 - High
+- 4 - High
+- 4 - High
+- 4 - High
+- 2 - Low
+- 4 - High
+- 3 - Average
+- 3 - Average
+- 4 - High
+- 2 - Low
+- 4 - High
+- 4 - High
+- 4 - High
+- 3 - Average
+- 3 - Average
+
+=== How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)) ===
+- 4 - High
+- 4 - High
+- 5 - Very High
+- 3 - Average
+- 3 - Average
+- 3 - Average
+- 4 - High
+- 4 - High
+- 3 - Average
+- 3 - Average
+- 4 - High
+- 3 - Average
+- 3 - Average
+- 4 - High
+- 3 - Average
+
+=== Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)) ===
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 2 - Rarely
+- 4 - Often
+- 1 - Never
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+
+=== Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)) ===
+- 2 - Disagree
+- 5 - Strongly agree
+- 2 - Disagree
+- 4 - Agree
+- 1 - Strongly disagree
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 2 - Disagree
+- 4 - Agree
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 5 - Strongly agree
+- 3 - Neither disagree or agree
+
+=== How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)) ===
+- 4 - Confident
+- 4 - Confident
+- 3 - Neither unconfident or confident
+- 3 - Neither unconfident or confident
+- 4 - Confident
+- 4 - Confident
+- 3 - Neither unconfident or confident
+- 2 - Unconfident
+- 4 - Confident
+- 2 - Unconfident
+- 4 - Confident
+- 4 - Confident
+- 2 - Unconfident
+- 3 - Neither unconfident or confident
+- 3 - Neither unconfident or confident
+
+=== What helped you stay productive with your studies? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- Spend as much time as needed
+- I was not very productive
+- going outside
+- Study groups
+- Structure
+- study groups
+- My mom
+
+=== What were your biggest challenges in staying academically productive? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- Avoiding distractions
+- uni + work + self employment was too much, my ex partner stressed me out a lot
+- Motivation
+- keeping up with exercises
+- Time management
+- Motivation
+- distractions
+- Concentrating
+
+=== Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)) ===
+- 4 - Often
+- 3 - Sometimes
+- 2 - Rarely
+- 4 - Often
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 2 - Rarely
+- 3 - Sometimes
+- 3 - Sometimes
+
+=== How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)) ===
+- 4 - Confident
+- 5 - Very confident
+- 2 - Unconfident
+- 5 - Very confident
+- 3 - Neither unconfident or confident
+- 3 - Neither unconfident or confident
+- 4 - Confident
+- 2 - Unconfident
+- 4 - Confident
+- 4 - Confident
+- 3 - Neither unconfident or confident
+- 4 - Confident
+- 3 - Neither unconfident or confident
+
+=== How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)) ===
+- 4 - Effective
+- 4 - Effective
+- 2 - Ineffective
+- 4 - Effective
+- 2 - Ineffective
+- 4 - Effective
+- 3 - Neither ineffective or effective
+- 4 - Effective
+- 4 - Effective
+- 2 - Ineffective
+- 4 - Effective
+- 4 - Effective
+- 2 - Ineffective
+- 3 - Neither ineffective or effective
+- 3 - Neither ineffective or effective
+
+=== Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)) ===
+- 4 - Agree
+- 3 - Neither disagree or agree
+- 3 - Neither disagree or agree
+- 4 - Agree
+- 4 - Agree
+- 1 - Strongly disagree
+- 2 - Disagree
+- 2 - Disagree
+- 2 - Disagree
+- 4 - Agree
+- 2 - Disagree
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 3 - Neither disagree or agree
+
+=== Did you adopt new tools (e.g., software, platforms) or habits? (Question inspired by Siegel et al. (2022), Palova et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) ===
+- No
+- meditation, self-care, sleeping cycle with the sun
+- Yes because first semester, so all Uni related stuff
+- Google Calendar, Anki
+- Obsidian
+- Trello
+- GitHub
+- No
+
+=== I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)) ===
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 3 - Neither diagree or agree
+- 4 - Agree
+- 3 - Neither diagree or agree
+- 2 - Disagree
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 4 - Agree
+- 2 - Disagree
+- 4 - Agree
+- 3 - Neither diagree or agree
+
+=== I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index).1 ===
+- 4 - Often
+- 2 - Rarely
+- 4 - Often
+- 3 - Sometimes
+- 4 - Often
+- 3 - Sometimes
+- 3 - Sometimes
+- 1 - Never
+- 3 - Sometimes
+- 2 - Rarely
+- 3 - Sometimes
+- 3 - Sometimes
+- 2 - Rarely
+- 2 - Rarely
+- 3 - Sometimes
