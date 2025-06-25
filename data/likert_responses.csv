@@ -1,0 +1,911 @@
+participant,question,phase,response
+1,Are you currently enrolled in a university degree program?,unspecified,No
+2,Are you currently enrolled in a university degree program?,unspecified,Yes
+3,Are you currently enrolled in a university degree program?,unspecified,Yes
+4,Are you currently enrolled in a university degree program?,unspecified,Yes
+5,Are you currently enrolled in a university degree program?,unspecified,Yes
+6,Are you currently enrolled in a university degree program?,unspecified,Yes
+7,Are you currently enrolled in a university degree program?,unspecified,Yes
+8,Are you currently enrolled in a university degree program?,unspecified,Yes
+9,Are you currently enrolled in a university degree program?,unspecified,Yes
+10,Are you currently enrolled in a university degree program?,unspecified,Yes
+11,Are you currently enrolled in a university degree program?,unspecified,Yes
+12,Are you currently enrolled in a university degree program?,unspecified,Yes
+13,Are you currently enrolled in a university degree program?,unspecified,Yes
+14,Are you currently enrolled in a university degree program?,unspecified,Yes
+15,Are you currently enrolled in a university degree program?,unspecified,Yes
+1,Did you have a part-time job related to IT or software development during the pandemic (2020–2022)?,unspecified,Yes
+2,Did you have a part-time job related to IT or software development during the pandemic (2020–2022)?,unspecified,Yes
+3,Did you have a part-time job related to IT or software development during the pandemic (2020–2022)?,unspecified,Yes
+4,Did you have a part-time job related to IT or software development during the pandemic (2020–2022)?,unspecified,No
+5,Did you have a part-time job related to IT or software development during the pandemic (2020–2022)?,unspecified,Yes
+6,Did you have a part-time job related to IT or software development during the pandemic (2020–2022)?,unspecified,No
+7,Did you have a part-time job related to IT or software development during the pandemic (2020–2022)?,unspecified,No
+8,Did you have a part-time job related to IT or software development during the pandemic (2020–2022)?,unspecified,No
+9,Did you have a part-time job related to IT or software development during the pandemic (2020–2022)?,unspecified,Yes
+10,Did you have a part-time job related to IT or software development during the pandemic (2020–2022)?,unspecified,Yes
+11,Did you have a part-time job related to IT or software development during the pandemic (2020–2022)?,unspecified,Yes
+12,Did you have a part-time job related to IT or software development during the pandemic (2020–2022)?,unspecified,Yes
+13,Did you have a part-time job related to IT or software development during the pandemic (2020–2022)?,unspecified,No
+14,Did you have a part-time job related to IT or software development during the pandemic (2020–2022)?,unspecified,Yes
+15,Did you have a part-time job related to IT or software development during the pandemic (2020–2022)?,unspecified,No
+1,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+2,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+3,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+4,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,5 - Always
+5,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+6,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+7,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+8,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+9,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+10,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,2 - Rarely
+11,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+12,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+13,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+14,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+15,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+1,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,4 - Often
+2,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,3 - Sometimes
+3,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,4 - Often
+4,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,4 - Often
+5,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,3 - Sometimes
+6,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,3 - Sometimes
+7,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,4 - Often
+8,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,4 - Often
+9,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,4 - Often
+10,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,2 - Rarely
+11,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,3 - Sometimes
+12,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,4 - Often
+13,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,5 - Always
+14,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,3 - Sometimes
+15,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,3 - Sometimes
+1,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+2,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+3,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+4,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+5,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),unspecified,2 - Rarely
+6,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+7,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+8,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+9,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+10,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),unspecified,1 - Never
+11,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+12,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+13,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+14,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),unspecified,2 - Rarely
+15,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+1,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+2,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),unspecified,2 - Rarely
+3,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+4,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+5,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+6,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+7,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+8,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+9,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+10,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),unspecified,1 - Never
+11,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+12,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+13,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+14,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+15,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+1,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+2,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+3,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,5 - Always
+4,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+5,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,2 - Rarely
+6,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+7,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+8,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+9,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+10,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,2 - Rarely
+11,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+12,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+13,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+14,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+15,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+1,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),unspecified,2 - Disagree
+2,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),unspecified,4 - Agree
+3,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),unspecified,4 - Agree
+4,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),unspecified,2 - Disagree
+5,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),unspecified,5 - Strongly Agree
+6,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),unspecified,3 - Neither disagree or agree
+7,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),unspecified,4 - Agree
+8,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),unspecified,3 - Neither disagree or agree
+9,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),unspecified,2 - Disagree
+10,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),unspecified,4 - Agree
+11,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),unspecified,3 - Neither disagree or agree
+12,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),unspecified,2 - Disagree
+13,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),unspecified,3 - Neither disagree or agree
+14,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),unspecified,4 - Agree
+15,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),unspecified,3 - Neither disagree or agree
+1,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",unspecified,4 - Agree
+2,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",unspecified,1 - Strongly disagree
+3,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",unspecified,4 - Agree
+4,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",unspecified,3 - Neither disagree or agree
+5,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",unspecified,4 - Agree
+6,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",unspecified,1 - Strongly disagree
+7,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",unspecified,2 - Disagree
+8,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",unspecified,1 - Strongly disagree
+9,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",unspecified,3 - Neither disagree or agree
+10,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",unspecified,2 - Disagree
+11,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",unspecified,4 - Agree
+12,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",unspecified,4 - Agree
+13,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",unspecified,3 - Neither disagree or agree
+14,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",unspecified,2 - Disagree
+15,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",unspecified,3 - Neither disagree or agree
+1,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",unspecified,Yes
+2,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",unspecified,No
+3,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",unspecified,No
+4,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",unspecified,No
+5,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",unspecified,No
+6,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",unspecified,Yes
+7,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",unspecified,No
+8,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",unspecified,Yes
+9,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",unspecified,Yes
+10,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",unspecified,Yes
+11,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",unspecified,No
+1,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - High
+2,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - High
+3,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - High
+4,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - High
+5,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,2 - Low
+6,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - High
+7,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,3 - Average
+8,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,3 - Average
+9,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - High
+10,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,2 - Low
+11,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - High
+12,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - High
+13,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - High
+14,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,3 - Average
+15,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,3 - Average
+1,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),unspecified,4 - High
+2,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),unspecified,4 - High
+3,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),unspecified,5 - Very High
+4,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),unspecified,3 - Average
+5,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),unspecified,3 - Average
+6,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),unspecified,3 - Average
+7,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),unspecified,4 - High
+8,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),unspecified,4 - High
+9,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),unspecified,3 - Average
+10,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),unspecified,3 - Average
+11,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),unspecified,4 - High
+12,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),unspecified,3 - Average
+13,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),unspecified,3 - Average
+14,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),unspecified,4 - High
+15,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),unspecified,3 - Average
+1,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),unspecified,4 - Often
+2,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),unspecified,3 - Sometimes
+3,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),unspecified,3 - Sometimes
+4,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),unspecified,2 - Rarely
+5,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),unspecified,4 - Often
+6,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),unspecified,1 - Never
+7,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),unspecified,4 - Often
+8,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),unspecified,3 - Sometimes
+9,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),unspecified,3 - Sometimes
+10,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),unspecified,4 - Often
+11,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),unspecified,3 - Sometimes
+12,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),unspecified,4 - Often
+13,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),unspecified,3 - Sometimes
+14,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),unspecified,4 - Often
+15,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),unspecified,3 - Sometimes
+1,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,2 - Disagree
+2,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,5 - Strongly agree
+3,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,2 - Disagree
+4,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,4 - Agree
+5,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,1 - Strongly disagree
+6,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,4 - Agree
+7,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,3 - Neither disagree or agree
+8,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,2 - Disagree
+9,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,4 - Agree
+10,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,2 - Disagree
+11,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,4 - Agree
+12,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,4 - Agree
+13,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,4 - Agree
+14,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,5 - Strongly agree
+15,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,3 - Neither disagree or agree
+1,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - Confident
+2,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - Confident
+3,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,3 - Neither unconfident or confident
+4,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,3 - Neither unconfident or confident
+5,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - Confident
+6,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - Confident
+7,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,3 - Neither unconfident or confident
+8,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,2 - Unconfident
+9,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - Confident
+10,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,2 - Unconfident
+11,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - Confident
+12,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - Confident
+13,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,2 - Unconfident
+14,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,3 - Neither unconfident or confident
+15,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,3 - Neither unconfident or confident
+1,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),unspecified,4 - Often
+2,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),unspecified,3 - Sometimes
+3,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),unspecified,2 - Rarely
+4,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),unspecified,4 - Often
+5,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),unspecified,4 - Often
+6,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),unspecified,3 - Sometimes
+7,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),unspecified,3 - Sometimes
+8,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),unspecified,4 - Often
+9,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),unspecified,3 - Sometimes
+10,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),unspecified,3 - Sometimes
+11,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),unspecified,2 - Rarely
+12,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),unspecified,3 - Sometimes
+13,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),unspecified,3 - Sometimes
+1,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - Confident
+2,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,5 - Very confident
+3,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,2 - Unconfident
+4,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,5 - Very confident
+5,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,3 - Neither unconfident or confident
+6,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,3 - Neither unconfident or confident
+7,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - Confident
+8,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,2 - Unconfident
+9,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - Confident
+10,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - Confident
+11,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,3 - Neither unconfident or confident
+12,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,4 - Confident
+13,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),unspecified,3 - Neither unconfident or confident
+1,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),unspecified,4 - Effective
+2,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),unspecified,4 - Effective
+3,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),unspecified,2 - Ineffective
+4,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),unspecified,4 - Effective
+5,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),unspecified,2 - Ineffective
+6,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),unspecified,4 - Effective
+7,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),unspecified,3 - Neither ineffective or effective
+8,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),unspecified,4 - Effective
+9,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),unspecified,4 - Effective
+10,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),unspecified,2 - Ineffective
+11,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),unspecified,4 - Effective
+12,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),unspecified,4 - Effective
+13,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),unspecified,2 - Ineffective
+14,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),unspecified,3 - Neither ineffective or effective
+15,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),unspecified,3 - Neither ineffective or effective
+1,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),unspecified,4 - Agree
+2,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),unspecified,3 - Neither disagree or agree
+3,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),unspecified,3 - Neither disagree or agree
+4,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),unspecified,4 - Agree
+5,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),unspecified,4 - Agree
+6,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),unspecified,1 - Strongly disagree
+7,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),unspecified,2 - Disagree
+8,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),unspecified,2 - Disagree
+9,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),unspecified,2 - Disagree
+10,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),unspecified,4 - Agree
+11,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),unspecified,2 - Disagree
+12,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),unspecified,2 - Disagree
+13,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),unspecified,4 - Agree
+14,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),unspecified,4 - Agree
+15,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),unspecified,3 - Neither disagree or agree
+1,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),unspecified,4 - Agree
+2,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),unspecified,4 - Agree
+3,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),unspecified,4 - Agree
+4,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),unspecified,3 - Neither diagree or agree
+5,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),unspecified,4 - Agree
+6,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),unspecified,3 - Neither diagree or agree
+7,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),unspecified,2 - Disagree
+8,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),unspecified,4 - Agree
+9,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),unspecified,4 - Agree
+10,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),unspecified,4 - Agree
+11,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),unspecified,4 - Agree
+12,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),unspecified,4 - Agree
+13,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),unspecified,2 - Disagree
+14,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),unspecified,4 - Agree
+15,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),unspecified,3 - Neither diagree or agree
+1,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+2,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+3,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+4,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,5 - Always
+5,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+6,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+7,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+8,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+9,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+10,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,2 - Rarely
+11,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+12,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+13,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+14,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+15,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+1,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,4 - Often
+2,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,3 - Sometimes
+3,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,4 - Often
+4,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,4 - Often
+5,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,3 - Sometimes
+6,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,3 - Sometimes
+7,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,4 - Often
+8,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,4 - Often
+9,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,4 - Often
+10,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,2 - Rarely
+11,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,3 - Sometimes
+12,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,4 - Often
+13,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,5 - Always
+14,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,3 - Sometimes
+15,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",unspecified,3 - Sometimes
+1,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),during,4 - Often
+2,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),during,2 - Rarely
+3,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+4,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),during,2 - Rarely
+5,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+6,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),during,2 - Rarely
+7,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),during,2 - Rarely
+8,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+9,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),during,2 - Rarely
+10,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),during,1 - Never
+11,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+12,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),during,2 - Rarely
+13,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),during,1 - Never
+14,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),during,2 - Rarely
+15,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+1,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),during,4 - Often
+2,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),during,2 - Rarely
+3,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),during,2 - Rarely
+4,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+5,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+6,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),during,2 - Rarely
+7,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+8,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),during,1 - Never
+9,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),during,2 - Rarely
+10,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),during,1 - Never
+11,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+12,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),during,2 - Rarely
+13,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),during,2 - Rarely
+14,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+15,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+1,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+2,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+3,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,5 - Always
+4,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+5,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,2 - Rarely
+6,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+7,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+8,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+9,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+10,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,2 - Rarely
+11,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+12,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+13,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+14,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,4 - Often
+15,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),unspecified,3 - Sometimes
+1,I frequently felt isolated or lonely while studying/working remotely. (Question adapted from Soares Passos et al. (2023)),unspecified,2 - Disagree
+2,I frequently felt isolated or lonely while studying/working remotely. (Question adapted from Soares Passos et al. (2023)),unspecified,5 - Strongly agree
+3,I frequently felt isolated or lonely while studying/working remotely. (Question adapted from Soares Passos et al. (2023)),unspecified,5 - Strongly agree
+4,I frequently felt isolated or lonely while studying/working remotely. (Question adapted from Soares Passos et al. (2023)),unspecified,4 - Agree
+5,I frequently felt isolated or lonely while studying/working remotely. (Question adapted from Soares Passos et al. (2023)),unspecified,2 - Disagree
+6,I frequently felt isolated or lonely while studying/working remotely. (Question adapted from Soares Passos et al. (2023)),unspecified,5 - Strongly agree
+7,I frequently felt isolated or lonely while studying/working remotely. (Question adapted from Soares Passos et al. (2023)),unspecified,4 - Agree
+8,I frequently felt isolated or lonely while studying/working remotely. (Question adapted from Soares Passos et al. (2023)),unspecified,5 - Strongly agree
+9,I frequently felt isolated or lonely while studying/working remotely. (Question adapted from Soares Passos et al. (2023)),unspecified,4 - Agree
+10,I frequently felt isolated or lonely while studying/working remotely. (Question adapted from Soares Passos et al. (2023)),unspecified,5 - Strongly agree
+11,I frequently felt isolated or lonely while studying/working remotely. (Question adapted from Soares Passos et al. (2023)),unspecified,2 - Disagree
+12,I frequently felt isolated or lonely while studying/working remotely. (Question adapted from Soares Passos et al. (2023)),unspecified,4 - Agree
+13,I frequently felt isolated or lonely while studying/working remotely. (Question adapted from Soares Passos et al. (2023)),unspecified,5 - Strongly agree
+14,I frequently felt isolated or lonely while studying/working remotely. (Question adapted from Soares Passos et al. (2023)),unspecified,4 - Agree
+15,I frequently felt isolated or lonely while studying/working remotely. (Question adapted from Soares Passos et al. (2023)),unspecified,3 - Neither disagree or agree
+1,I felt emotionally exhausted during the pandemic. (Question adapted from Beutel et al. (2021); Soares Passos et al. (2023)),unspecified,2 - Disagree
+2,I felt emotionally exhausted during the pandemic. (Question adapted from Beutel et al. (2021); Soares Passos et al. (2023)),unspecified,4 - Agree
+3,I felt emotionally exhausted during the pandemic. (Question adapted from Beutel et al. (2021); Soares Passos et al. (2023)),unspecified,4 - Agree
+4,I felt emotionally exhausted during the pandemic. (Question adapted from Beutel et al. (2021); Soares Passos et al. (2023)),unspecified,2 - Disagree
+5,I felt emotionally exhausted during the pandemic. (Question adapted from Beutel et al. (2021); Soares Passos et al. (2023)),unspecified,1 - Strongly Disagree
+6,I felt emotionally exhausted during the pandemic. (Question adapted from Beutel et al. (2021); Soares Passos et al. (2023)),unspecified,4 - Agree
+7,I felt emotionally exhausted during the pandemic. (Question adapted from Beutel et al. (2021); Soares Passos et al. (2023)),unspecified,3 - Neither disagree or agree
+8,I felt emotionally exhausted during the pandemic. (Question adapted from Beutel et al. (2021); Soares Passos et al. (2023)),unspecified,5 - Strongly agree
+9,I felt emotionally exhausted during the pandemic. (Question adapted from Beutel et al. (2021); Soares Passos et al. (2023)),unspecified,4 - Agree
+10,I felt emotionally exhausted during the pandemic. (Question adapted from Beutel et al. (2021); Soares Passos et al. (2023)),unspecified,4 - Agree
+11,I felt emotionally exhausted during the pandemic. (Question adapted from Beutel et al. (2021); Soares Passos et al. (2023)),unspecified,3 - Neither disagree or agree
+12,I felt emotionally exhausted during the pandemic. (Question adapted from Beutel et al. (2021); Soares Passos et al. (2023)),unspecified,4 - Agree
+13,I felt emotionally exhausted during the pandemic. (Question adapted from Beutel et al. (2021); Soares Passos et al. (2023)),unspecified,4 - Agree
+14,I felt emotionally exhausted during the pandemic. (Question adapted from Beutel et al. (2021); Soares Passos et al. (2023)),unspecified,3 - Neither disagree or agree
+15,I felt emotionally exhausted during the pandemic. (Question adapted from Beutel et al. (2021); Soares Passos et al. (2023)),unspecified,3 - Neither disagree or agree
+1,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),during,2 - Disagree
+2,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),during,5 - Strongly Agree
+3,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),during,3 - Neither disagree or agree
+4,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),during,2 - Disagree
+5,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),during,4 - Agree
+6,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),during,4 - Agree
+7,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),during,4 - Agree
+8,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),during,5 - Strongly Agree
+9,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),during,4 - Agree
+10,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),during,5 - Strongly Agree
+11,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),during,3 - Neither disagree or agree
+12,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),during,4 - Agree
+13,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),during,3 - Neither disagree or agree
+14,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),during,4 - Agree
+15,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),during,3 - Neither disagree or agree
+1,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",during,4 - Agree
+2,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",during,1 - Strongly disagree
+3,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",during,4 - Agree
+4,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",during,2 - Disagree
+5,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",during,4 - Agree
+6,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",during,1 - Strongly disagree
+7,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",during,2 - Disagree
+8,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",during,1 - Strongly disagree
+9,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",during,3 - Neither disagree or agree
+10,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",during,2 - Disagree
+11,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",during,4 - Agree
+12,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",during,4 - Agree
+13,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",during,2 - Disagree
+14,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",during,2 - Disagree
+15,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",during,3 - Neither disagree or agree
+1,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",during,Yes
+2,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",during,No
+3,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",during,No
+4,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",during,No
+5,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",during,No
+6,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",during,Yes
+7,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",during,No
+8,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",during,Yes
+9,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",during,Yes
+10,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",during,Yes
+11,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",during,No
+12,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",during,Yes
+1,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,4 - High
+2,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,5 - Very high
+3,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,2 - Low
+4,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,3 - Average
+5,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,4 - High
+6,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,1 - Very Low
+7,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,3 - Average
+8,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,2 - Low
+9,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,3 - Average
+10,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,2 - Low
+11,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,4 - High
+12,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,3 - Average
+13,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,2 - Low
+14,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,2 - Low
+15,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,3 - Average
+1,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),during,4 - High
+2,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),during,3 - Average
+3,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),during,3 - Average
+4,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),during,3 - Average
+5,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),during,5 - Very High
+6,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),during,4 - High
+7,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),during,3 - Average
+8,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),during,5 - Very High
+9,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),during,3 - Average
+10,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),during,4 - High
+11,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),during,4 - High
+12,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),during,4 - High
+13,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),during,3 - Average
+14,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),during,2 - Low
+15,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),during,3 - Average
+1,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),during,4 - Often
+2,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),during,2 - Rarely
+3,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),during,2 - Rarely
+4,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),during,2 - Rarely
+5,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),during,4 - Often
+6,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),during,3 - Sometimes
+7,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),during,4 - Often
+8,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),during,4 - Often
+9,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),during,4 - Often
+10,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),during,4 - Often
+11,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),during,3 - Sometimes
+12,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),during,4 - Often
+13,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),during,4 - Often
+14,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),during,5 - Always
+15,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),during,3 - Sometimes
+1,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,4 - Confident
+2,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,4 - Confident
+3,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,3 - Neither unconfident or confident
+4,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,3 - Neither unconfident or confident
+5,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,5 - Very confident
+6,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,2 - Unconfident
+7,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,3 - Neither unconfident or confident
+8,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,2 - Unconfident
+9,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,4 - Confident
+10,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,2 - Unconfident
+11,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,4 - Confident
+12,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,4 - Confident
+13,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,2 - Unconfident
+14,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,3 - Neither unconfident or confident
+15,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,3 - Neither unconfident or confident
+1,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),during,4 - Agree
+2,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),during,5 - Strongly agree
+3,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),during,4 - Agree
+4,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),during,4 - Agree
+5,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),during,4 - Agree
+6,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),during,1 - Strongly disagree
+7,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),during,3 - Neither disagree or agree
+8,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),during,1 - Strongly disagree
+9,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),during,4 - Agree
+10,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),during,2 - Disagree
+11,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),during,4 - Agree
+12,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),during,3 - Neither disagree or agree
+13,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),during,2 - Disagree
+14,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),during,2 - Disagree
+15,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),during,3 - Neither disagree or agree
+1,"If you had a job during the pandemic, how would you rate your productivity at work? (Adapted from Ralph et al. (2020), Russo et al. (2021))",unspecified,4 - High
+2,"If you had a job during the pandemic, how would you rate your productivity at work? (Adapted from Ralph et al. (2020), Russo et al. (2021))",unspecified,5 - Very high
+3,"If you had a job during the pandemic, how would you rate your productivity at work? (Adapted from Ralph et al. (2020), Russo et al. (2021))",unspecified,3 - Average
+4,"If you had a job during the pandemic, how would you rate your productivity at work? (Adapted from Ralph et al. (2020), Russo et al. (2021))",unspecified,5 - Very high
+5,"If you had a job during the pandemic, how would you rate your productivity at work? (Adapted from Ralph et al. (2020), Russo et al. (2021))",unspecified,3 - Average
+6,"If you had a job during the pandemic, how would you rate your productivity at work? (Adapted from Ralph et al. (2020), Russo et al. (2021))",unspecified,3 - Average
+7,"If you had a job during the pandemic, how would you rate your productivity at work? (Adapted from Ralph et al. (2020), Russo et al. (2021))",unspecified,2 - Low
+8,"If you had a job during the pandemic, how would you rate your productivity at work? (Adapted from Ralph et al. (2020), Russo et al. (2021))",unspecified,3 - Average
+9,"If you had a job during the pandemic, how would you rate your productivity at work? (Adapted from Ralph et al. (2020), Russo et al. (2021))",unspecified,3 - Average
+10,"If you had a job during the pandemic, how would you rate your productivity at work? (Adapted from Ralph et al. (2020), Russo et al. (2021))",unspecified,2 - Low
+11,"If you had a job during the pandemic, how would you rate your productivity at work? (Adapted from Ralph et al. (2020), Russo et al. (2021))",unspecified,2 - Low
+12,"If you had a job during the pandemic, how would you rate your productivity at work? (Adapted from Ralph et al. (2020), Russo et al. (2021))",unspecified,3 - Average
+1,"Did your job workload increase, decrease, or stay the same during the pandemic? (Inspired by Russo et al. (2021))",unspecified,1 - Increased
+2,"Did your job workload increase, decrease, or stay the same during the pandemic? (Inspired by Russo et al. (2021))",unspecified,2 - Stayed the same
+3,"Did your job workload increase, decrease, or stay the same during the pandemic? (Inspired by Russo et al. (2021))",unspecified,2 - Stayed the same
+4,"Did your job workload increase, decrease, or stay the same during the pandemic? (Inspired by Russo et al. (2021))",unspecified,1 - Increased
+5,"Did your job workload increase, decrease, or stay the same during the pandemic? (Inspired by Russo et al. (2021))",unspecified,2 - Stayed the same
+6,"Did your job workload increase, decrease, or stay the same during the pandemic? (Inspired by Russo et al. (2021))",unspecified,2 - Stayed the same
+7,"Did your job workload increase, decrease, or stay the same during the pandemic? (Inspired by Russo et al. (2021))",unspecified,3 - Decreased
+8,"Did your job workload increase, decrease, or stay the same during the pandemic? (Inspired by Russo et al. (2021))",unspecified,3 - Decreased
+9,"Did your job workload increase, decrease, or stay the same during the pandemic? (Inspired by Russo et al. (2021))",unspecified,3 - Decreased
+10,"Did your job workload increase, decrease, or stay the same during the pandemic? (Inspired by Russo et al. (2021))",unspecified,3 - Decreased
+11,"Did your job workload increase, decrease, or stay the same during the pandemic? (Inspired by Russo et al. (2021))",unspecified,2 - Stayed the same
+12,"Did your job workload increase, decrease, or stay the same during the pandemic? (Inspired by Russo et al. (2021))",unspecified,3 - Decreased
+1,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),during,5 - Always
+2,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),during,3 - Sometimes
+3,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),during,2 - Rarely
+4,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),during,4 - Often
+5,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),during,4 - Often
+6,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),during,3 - Sometimes
+7,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),during,4 - Often
+8,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),during,2 - Rarely
+9,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),during,4 - Often
+10,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),during,5 - Always
+11,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),during,4 - Often
+12,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),during,3 - Sometimes
+1,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,4 - Confident
+2,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,5 - Very confident
+3,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,2 - Unconfident
+4,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,5 - Very confident
+5,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,3 - Neither unconfident or confident
+6,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,4 - Confident
+7,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,2 - Unconfident
+8,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,2 - Unconfident
+9,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,4 - Confident
+10,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,3 - Neither unconfident or confident
+11,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,2 - Unconfident
+12,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),during,3 - Neither unconfident or confident
+1,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),during,5 - Very effective
+2,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),during,2 - Ineffective
+3,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),during,2 - Ineffective
+4,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),during,1 - Very ineffective
+5,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),during,4 - Effective
+6,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),during,2 - Ineffective
+7,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),during,3 - Neither ineffective or effective
+8,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),during,2 - Ineffective
+9,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),during,4 - Effective
+10,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),during,2 - Ineffective
+11,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),during,4 - Effective
+12,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),during,2 - Ineffective
+13,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),during,3 - Neither ineffective or effective
+14,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),during,2 - Ineffective
+15,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),during,3 - Neither ineffective or effective
+1,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),during,2 - Disagree
+2,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),during,3 - Neither disagree or agree
+3,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),during,3 - Neither disagree or agree
+4,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),during,5 - Strongly agree
+5,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),during,2 - Disagree
+6,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),during,5 - Strongly agree
+7,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),during,3 - Neither disagree or agree
+8,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),during,5 - Strongly agree
+9,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),during,3 - Neither disagree or agree
+10,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),during,4 - Agree
+11,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),during,2 - Disagree
+12,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),during,5 - Strongly agree
+13,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),during,4 - Agree
+14,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),during,4 - Agree
+15,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),during,3 - Neither disagree or agree
+1,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),during,4 - Agree
+2,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),during,2 - Disagree
+3,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),during,2 - Disagree
+4,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),during,3 - Neither diagree or agree
+5,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),during,5 - Strongly agree
+6,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),during,3 - Neither diagree or agree
+7,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),during,3 - Neither diagree or agree
+8,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),during,4 - Agree
+9,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),during,3 - Neither diagree or agree
+10,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),during,2 - Disagree
+11,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),during,3 - Neither diagree or agree
+12,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),during,2 - Disagree
+13,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),during,3 - Neither diagree or agree
+14,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),during,3 - Neither diagree or agree
+15,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),during,3 - Neither diagree or agree
+1,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),during,5 - Always
+2,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+3,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),during,2 - Rarely
+4,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),during,4 - Often
+5,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),during,4 - Often
+6,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+7,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+8,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),during,2 - Rarely
+9,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),during,4 - Often
+10,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+11,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+12,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),during,4 - Often
+13,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+14,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+15,I have felt cheerful and in good spirits. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+1,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",during,5 - Always
+2,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",during,3 - Sometimes
+3,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",during,3 - Sometimes
+4,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",during,4 - Often
+5,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",during,3 - Sometimes
+6,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",during,3 - Sometimes
+7,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",during,3 - Sometimes
+8,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",during,1 - Never
+9,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",during,4 - Often
+10,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",during,3 - Sometimes
+11,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",during,3 - Sometimes
+12,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",during,4 - Often
+13,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",during,3 - Sometimes
+14,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",during,3 - Sometimes
+15,"In this phase, how often did you feel calm and relaxed? (Question identical to WHO-5 Well-Being Index)",during,3 - Sometimes
+1,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),after,5 - Always
+2,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),after,4 - Often
+3,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),after,2 - Rarely
+4,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),after,4 - Often
+5,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),after,3 - Sometimes
+6,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),after,3 - Sometimes
+7,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),after,3 - Sometimes
+8,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),after,2 - Rarely
+9,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),after,4 - Often
+10,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),after,2 - Rarely
+11,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),after,3 - Sometimes
+12,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),after,4 - Often
+13,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),after,3 - Sometimes
+14,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),after,4 - Often
+15,I have felt active and vigorous. (Question identical to WHO-5 Well-Being Index),after,3 - Sometimes
+1,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),after,5 - Always
+2,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),after,2 - Rarely
+3,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),after,3 - Sometimes
+4,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),after,4 - Often
+5,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),after,2 - Rarely
+6,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),after,3 - Sometimes
+7,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),after,3 - Sometimes
+8,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),after,2 - Rarely
+9,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),after,3 - Sometimes
+10,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),after,2 - Rarely
+11,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),after,3 - Sometimes
+12,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),after,3 - Sometimes
+13,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),after,3 - Sometimes
+14,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),after,4 - Often
+15,I woke up feeling fresh and rested. (Question identical to WHO-5 Well-Being Index),after,3 - Sometimes
+1,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),during,5 - Always
+2,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+3,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),during,1 - Never
+4,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),during,4 - Often
+5,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+6,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+7,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+8,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+9,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),during,4 - Often
+10,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),during,2 - Rarely
+11,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),during,4 - Often
+12,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),during,4 - Often
+13,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),during,4 - Often
+14,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),during,4 - Often
+15,My daily life has been filled with things that interest me. (Question identical to WHO-5 Well-Being Index),during,3 - Sometimes
+1,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),after,2 - Disagree
+2,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),after,5 - Strongly Agree
+3,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),after,2 - Disagree
+4,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),after,2 - Disagree
+5,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),after,4 - Agree
+6,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),after,2 - Disagree
+7,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),after,3 - Neither disagree or agree
+8,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),after,5 - Strongly Agree
+9,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),after,2 - Disagree
+10,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),after,2 - Disagree
+11,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),after,4 - Agree
+12,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),after,2 - Disagree
+13,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),after,3 - Neither disagree or agree
+14,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),after,4 - Agree
+15,I felt significantly anxious or stressed. (Question adapted from PHQ-9 Adaptation; Hӧhne et al. (2022)),after,3 - Neither disagree or agree
+1,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",after,4 - Agree
+2,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",after,1 - Strongly disagree
+3,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",after,4 - Agree
+4,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",after,2 - Disagree
+5,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",after,3 - Neither disagree or agree
+6,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",after,1 - Strongly disagree
+7,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",after,3 - Neither disagree or agree
+8,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",after,1 - Strongly disagree
+9,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",after,4 - Agree
+10,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",after,1 - Strongly disagree
+11,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",after,3 - Neither disagree or agree
+12,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",after,4 - Agree
+13,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",after,3 - Neither disagree or agree
+14,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",after,3 - Neither disagree or agree
+15,"I received sufficient mental well-being support from my university. (e.g., yoga, online events). (Question inspired from Beutel et al. (2021), Weber et al. (2020))",after,3 - Neither disagree or agree
+1,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",after,Yes
+2,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",after,No
+3,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",after,No
+4,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",after,No
+5,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",after,No
+6,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",after,Yes
+7,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",after,No
+8,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",after,Yes
+9,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",after,No
+10,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",after,No
+11,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",after,Yes
+12,"I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). (Question inspired from Russo et al. (2021), Ralph et al. (2020))",after,No
+1,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,5 - Very high
+2,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,5 - Very high
+3,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Average
+4,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Average
+5,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,5 - Very high
+6,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Average
+7,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Average
+8,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Average
+9,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,4 - High
+10,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Average
+11,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,4 - High
+12,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Average
+13,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,4 - High
+14,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,4 - High
+15,How would you rate your academic productivity during this time? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Average
+1,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),after,5 - Very High
+2,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),after,4 - High
+3,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),after,2 - Low
+4,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),after,3 - Average
+5,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),after,5 - Very High
+6,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),after,4 - High
+7,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),after,3 - Average
+8,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),after,5 - Very High
+9,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),after,4 - High
+10,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),after,3 - Average
+11,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),after,4 - High
+12,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),after,3 - Average
+13,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),after,2 - Low
+14,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),after,2 - Low
+15,How much was your academic workload on average? (Question adapted from Baticulon et al. (2021)),after,3 - Average
+1,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),after,5 - Always
+2,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),after,5 - Always
+3,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),after,2 - Rarely
+4,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),after,2 - Rarely
+5,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),after,4 - Often
+6,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),after,3 - Sometimes
+7,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),after,3 - Sometimes
+8,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),after,5 - Always
+9,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),after,2 - Rarely
+10,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),after,3 - Sometimes
+11,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),after,3 - Sometimes
+12,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),after,4 - Often
+13,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),after,4 - Often
+14,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),after,4 - Often
+15,Did you feel pressure to appear constantly available or responsive for academic obligations? (Question adapted from Ralph et al. (2020)),after,3 - Sometimes
+1,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,5 - Very confident
+2,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,4 - Confident
+3,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Neither unconfident or confident
+4,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Neither unconfident or confident
+5,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,5 - Very confident
+6,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,2 - Unconfident
+7,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Neither unconfident or confident
+8,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Neither unconfident or confident
+9,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,4 - Confident
+10,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Neither unconfident or confident
+11,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,4 - Confident
+12,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,4 - Confident
+13,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Neither unconfident or confident
+14,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,4 - Confident
+15,How confident did you feel in the quality of your academic work? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Neither unconfident or confident
+1,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,2 - Disagree
+2,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,5 - Strongly agree
+3,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,2 - Disagree
+4,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,4 - Agree
+5,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,1 - Strongly disagree
+6,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,4 - Agree
+7,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,3 - Neither disagree or agree
+8,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,2 - Disagree
+9,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,4 - Agree
+10,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,2 - Disagree
+11,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,4 - Agree
+12,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,4 - Agree
+13,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,4 - Agree
+14,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,5 - Strongly agree
+15,Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020)),before,3 - Neither disagree or agree
+1,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),after,5 - Always
+2,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),after,4 - Often
+3,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),after,2 - Rarely
+4,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),after,2 - Rarely
+5,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),after,3 - Sometimes
+6,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),after,3 - Sometimes
+7,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),after,4 - Often
+8,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),after,2 - Rarely
+9,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),after,3 - Sometimes
+10,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),after,2 - Rarely
+11,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),after,3 - Sometimes
+12,Did you feel pressure to appear constantly online or available at work? (Question adapted from Ralph et al. (2020)),after,3 - Sometimes
+1,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,5 - Very confident
+2,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,4 - Confident
+3,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,4 - Confident
+4,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,5 - Very confident
+5,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Neither unconfident or confident
+6,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,4 - Confident
+7,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,2 - Unconfident
+8,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Neither unconfident or confident
+9,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,4 - Confident
+10,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Neither unconfident or confident
+11,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Neither unconfident or confident
+12,How confident were you in the quality of your work-related output? (Question adapted from Ralph et al. (2020); Russo et al. (2021)),after,3 - Neither unconfident or confident
+1,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),after,5 - Very effective
+2,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),after,4 - Effective
+3,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),after,2 - Ineffective
+4,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),after,4 - Effective
+5,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),after,3 - Neither ineffective or effective
+6,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),after,4 - Effective
+7,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),after,3 - Neither ineffective or effective
+8,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),after,4 - Effective
+9,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),after,4 - Effective
+10,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),after,3 - Neither ineffective or effective
+11,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),after,4 - Effective
+12,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),after,4 - Effective
+13,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),after,3 - Neither ineffective or effective
+14,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),after,4 - Effective
+15,How did you perceive the communication with peers or colleagues? (Question adapted from Siegel et al. (2022)),after,3 - Neither ineffective or effective
+1,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),after,2 - Disagree
+2,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),after,3 - Neither disagree or agree
+3,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),after,3 - Neither disagree or agree
+4,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),after,2 - Disagree
+5,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),after,3 - Neither disagree or agree
+6,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),after,3 - Neither disagree or agree
+7,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),after,3 - Neither disagree or agree
+8,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),after,3 - Neither disagree or agree
+9,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),after,2 - Disagree
+10,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),after,3 - Neither disagree or agree
+11,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),after,2 - Disagree
+12,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),after,2 - Disagree
+13,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),after,4 - Agree
+14,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),after,3 - Neither disagree or agree
+15,Did you feel disconnected from your academic or work environment? (Question adapted from Hohne et al. (2022); Siegel et al. (2022)),after,3 - Neither disagree or agree
+1,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),after,5 - Strongly agree
+2,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),after,4 - Agree
+3,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),after,4 - Agree
+4,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),after,3 - Neither diagree or agree
+5,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),after,2 - Disagree
+6,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),after,3 - Neither diagree or agree
+7,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),after,3 - Neither diagree or agree
+8,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),after,4 - Agree
+9,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),after,4 - Agree
+10,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),after,2 - Disagree
+11,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),after,3 - Neither diagree or agree
+12,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),after,5 - Strongly agree
+13,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),after,4 - Agree
+14,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),after,5 - Strongly agree
+15,I feel that my practical computer science skills improved. (Question inspired by Palova et al. (2023)),after,3 - Neither diagree or agree
+1,How well were you able to learn computer science topics through remote classes? (Question adapted from Palova et al. (2023)),unspecified,5 - Very effective
+2,How well were you able to learn computer science topics through remote classes? (Question adapted from Palova et al. (2023)),unspecified,5 - Very effective
+3,How well were you able to learn computer science topics through remote classes? (Question adapted from Palova et al. (2023)),unspecified,4 - Effective
+4,How well were you able to learn computer science topics through remote classes? (Question adapted from Palova et al. (2023)),unspecified,3 - Neither effective or ineffective
+5,How well were you able to learn computer science topics through remote classes? (Question adapted from Palova et al. (2023)),unspecified,5 - Very effective
+6,How well were you able to learn computer science topics through remote classes? (Question adapted from Palova et al. (2023)),unspecified,2 - Ineffective
+7,How well were you able to learn computer science topics through remote classes? (Question adapted from Palova et al. (2023)),unspecified,3 - Neither effective or ineffective
+8,How well were you able to learn computer science topics through remote classes? (Question adapted from Palova et al. (2023)),unspecified,2 - Ineffective
+9,How well were you able to learn computer science topics through remote classes? (Question adapted from Palova et al. (2023)),unspecified,4 - Effective
+10,How well were you able to learn computer science topics through remote classes? (Question adapted from Palova et al. (2023)),unspecified,1 - Very ineffective
+11,How well were you able to learn computer science topics through remote classes? (Question adapted from Palova et al. (2023)),unspecified,3 - Neither effective or ineffective
+12,How well were you able to learn computer science topics through remote classes? (Question adapted from Palova et al. (2023)),unspecified,4 - Effective
+13,How well were you able to learn computer science topics through remote classes? (Question adapted from Palova et al. (2023)),unspecified,2 - Ineffective
+14,How well were you able to learn computer science topics through remote classes? (Question adapted from Palova et al. (2023)),unspecified,3 - Neither effective or ineffective
+15,How well were you able to learn computer science topics through remote classes? (Question adapted from Palova et al. (2023)),unspecified,3 - Neither effective or ineffective
+1,"After restrictions eased, did you return to your pre-pandemic work/study style? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.)",unspecified,No
+2,"After restrictions eased, did you return to your pre-pandemic work/study style? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.)",unspecified,Yes
+3,"After restrictions eased, did you return to your pre-pandemic work/study style? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.)",unspecified,Yes
+4,"After restrictions eased, did you return to your pre-pandemic work/study style? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.)",unspecified,Yes
+5,"After restrictions eased, did you return to your pre-pandemic work/study style? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.)",unspecified,Yes
+6,"After restrictions eased, did you return to your pre-pandemic work/study style? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.)",unspecified,No
+7,"After restrictions eased, did you return to your pre-pandemic work/study style? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.)",unspecified,No
+8,"After restrictions eased, did you return to your pre-pandemic work/study style? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.)",unspecified,No
+9,"After restrictions eased, did you return to your pre-pandemic work/study style? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.)",unspecified,Yes
+10,"After restrictions eased, did you return to your pre-pandemic work/study style? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.)",unspecified,No
+11,"After restrictions eased, did you return to your pre-pandemic work/study style? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.)",unspecified,No
+12,"After restrictions eased, did you return to your pre-pandemic work/study style? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.)",unspecified,Yes
+13,"After restrictions eased, did you return to your pre-pandemic work/study style? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.)",unspecified,Yes
+14,"After restrictions eased, did you return to your pre-pandemic work/study style? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.)",unspecified,No
+15,"After restrictions eased, did you return to your pre-pandemic work/study style? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.)",unspecified,Yes
+1,Have you continued any of those habits after returning to in-person or hybrid formats? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.),unspecified,Yes
+2,Have you continued any of those habits after returning to in-person or hybrid formats? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.),unspecified,No
+3,Have you continued any of those habits after returning to in-person or hybrid formats? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.),unspecified,No
+4,Have you continued any of those habits after returning to in-person or hybrid formats? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.),unspecified,Yes
+5,Have you continued any of those habits after returning to in-person or hybrid formats? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.),unspecified,Yes
+6,Have you continued any of those habits after returning to in-person or hybrid formats? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.),unspecified,No
+7,Have you continued any of those habits after returning to in-person or hybrid formats? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.),unspecified,Yes
+8,Have you continued any of those habits after returning to in-person or hybrid formats? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.),unspecified,No
+9,Have you continued any of those habits after returning to in-person or hybrid formats? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.),unspecified,Yes
+10,Have you continued any of those habits after returning to in-person or hybrid formats? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.),unspecified,Yes
+11,Have you continued any of those habits after returning to in-person or hybrid formats? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.),unspecified,Yes
+12,Have you continued any of those habits after returning to in-person or hybrid formats? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.),unspecified,Yes
