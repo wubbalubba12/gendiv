@@ -4,6 +4,19 @@
 mental health resources
 - Flexibility
 - wellness check-ins
+- a lot of flexibility in tasks I work on and choices when I work
+
+=== If yes, please specify what kind mental well-being support was provided from my employer. (Question inspired from Russo et al. (2021), Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) [during] ===
+- flexibility
+- remote
+- relaxed deadlines
+- Online therapy help
+- a lot of flexibility in tasks I work on and choices when I work
+
+=== If yes, please specify what kind mental well-being support was provided from my employer. (Question inspired from Russo et al. (2021), Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) [after] ===
+- mental health days
+- weekly check-ins
+- a lot of flexibility in tasks I work on and choices when I work
 
 === What were your main sources of stress? (Question adapted from Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [before] ===
 - Exams, other people
@@ -18,51 +31,11 @@ mental health resources
 - family
 - Emotional disconnect
 - College
-
-=== What strategies did you use to manage your stress? (Question inspired from Hohne et al. (2022), Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [before] ===
-- Gaming, Music
-- meditation
-- Sports, gaming, friends, but nothing distincitve really
-- exercise
-- Journaling, meditation
-- music
-- Netflix, coding
-- Play games
-
-=== What helped you stay productive with your studies? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.) [before] ===
-- Spend as much time as needed
-- I was not very productive
-- going outside
-- Study groups
-- Structure
-- study groups
-- My mom
-
-=== What were your biggest challenges in staying academically productive? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) [before] ===
-- Avoiding distractions
-- uni + work + self employment was too much, my ex partner stressed me out a lot
-- Motivation
-- keeping up with exercises
-- Time management
-- Motivation
-- distractions
-- Concentrating
-
-=== Did you adopt new tools (e.g., software, platforms) or habits? (Question inspired by Siegel et al. (2022), Palova et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [before] ===
-- No
-- meditation, self-care, sleeping cycle with the sun
-- Yes because first semester, so all Uni related stuff
-- Google Calendar, Anki
-- Obsidian
-- Trello
-- GitHub
-- No
-
-=== If yes, please specify what kind mental well-being support was provided from my employer. (Question inspired from Russo et al. (2021), Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) [during] ===
-- flexibility
-- remote
-- relaxed deadlines
-- Online therapy help
+- I was injured and could not do sports while having trouble organising my studying life while also working
+- Assignments and Deadlines + Drama with Friends
+- University and work
+- i think the point durring corona that the social life are completely gone for 1- 2 years
+- Personal issues, loneliness, university pressure, boredom
 
 === What were your main sources of stress? (Question adapted from Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [during] ===
 - Too few to do
@@ -76,6 +49,41 @@ mental health resources
 - isolation
 - work pressure
 - College
+- my family lives in a small flat in a big city and did not get along well (while I lived in a rather flatshare with a lot of space and a nice surrounding)
+- handling university and work and waking up on time
+- A Breakup
+- covid and that i cant life the social life that i got before
+- Loneliness, boredom, panicking when having to perform in uni
+- Isolation
+
+=== What were your main sources of stress? (Question adapted from Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [after] ===
+- work, uni, driving to uni
+- Workload, Procrastinating
+- Still Uni deadlines / exercises / submissions / papers, theses, also the insanely bad organization from the Uni because of which late changes in the semester study plan have to be made, courses changed etc
+- Career planning
+- Exams
+- Uncertainty
+- Pressure to keep up
+- College
+- managing working, studying, family, boyfriend and hobbies
+- Deadlines and feeling like I "wasted time" academically because I didnt feel like i accomplished a lot academically during the pandemic
+- now its the Klausurphase not corona
+- To much workload, starting to work next to studies
+- Burnout
+
+=== What strategies did you use to manage your stress? (Question inspired from Hohne et al. (2022), Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [before] ===
+- Gaming, Music
+- meditation
+- Sports, gaming, friends, but nothing distincitve really
+- exercise
+- Journaling, meditation
+- music
+- Netflix, coding
+- Play games
+- not that many, usually going outside, do sports with people but my foot was hurt
+- Journaling my feelings + talking to friends
+- i played a lot of music and learn new instruments
+- None but getting really into my feelings
 
 === What strategies did you use to manage your stress? (Question inspired from Hohne et al. (2022), Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [during] ===
 - meditation, lots of coffee and tee, long walks and bike rides
@@ -85,6 +93,35 @@ mental health resources
 - Journaling
 - Music, movies
 - online gaming
+- going outside and taking walks and hikes (and talks) alone as well as with my boyfriend or the nice people I lived with
+- journaling
+- music
+
+=== What strategies did you use to manage your stress? (Question inspired from Hohne et al. (2022), Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [after] ===
+- Distracting hobbies
+- I quit my job in january 2024 to have more time for uni. That helped me to double the CP amount and improve my grades
+- No distinct strategies, but maybe going outside or motorcycle riding, gaming
+- Peer support group
+- music
+- meditation
+- Time table
+- go bouldering/dancing
+- Talking to friends and realizing that i can do things in my own time
+- music
+- Doing exercises bevor going to sleep
+
+=== What helped you stay productive with your studies? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.) [before] ===
+- Spend as much time as needed
+- I was not very productive
+- going outside
+- Study groups
+- Structure
+- study groups
+- My mom
+- Friends arround me that worked on same or similar studies
+- my social life with my friend
+- Study with Oder students
+- interests in topics
 
 === What helped you stay productive with your studies? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.) [during] ===
 - A lot of available time. Easier access to materials (recording, ...)
@@ -97,37 +134,9 @@ mental health resources
 - discipline
 - projects
 - Career
-
-=== What were your biggest challenges in staying academically productive? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) [during] ===
-- That I worked a lot besides. And the super high workload of understanding maths 2 lecture and being able to manage the assignment. Besides that I tried to stay productive by reducing courses and therefore preventing overload.
-- Motivation
-- screen time
-- Isolation
-- Lack of structure
-- Concentrating
-
-=== If yes, please specify what kind mental well-being support was provided from my employer. (Question inspired from Russo et al. (2021), Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) [after] ===
-- mental health days
-- weekly check-ins
-
-=== What were your main sources of stress? (Question adapted from Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [after] ===
-- work, uni, driving to uni
-- Workload, Procrastinating
-- Still Uni deadlines / exercises / submissions / papers, theses, also the insanely bad organization from the Uni because of which late changes in the semester study plan have to be made, courses changed etc
-- Career planning
-- Exams
-- Uncertainty
-- Pressure to keep up
-- College
-
-=== What strategies did you use to manage your stress? (Question inspired from Hohne et al. (2022), Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [after] ===
-- Distracting hobbies
-- I quit my job in january 2024 to have more time for uni. That helped me to double the CP amount and improve my grades
-- No distinct strategies, but maybe going outside or motorcycle riding, gaming
-- Peer support group
-- music
-- meditation
-- Time table
+- Taking breaks, having the possibility to create my own working structures and working remotely, combining tasks, watching lessons way faster
+- it was verry difficult to stay productive
+- I wasn’t productive
 
 === What helped you stay productive with your studies? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.) [after] ===
 - tracking the time I used for each course. This allowed me to know if I'm on track
@@ -137,6 +146,37 @@ mental health resources
 - personal goals
 - mini-projects
 - Motivation
+- having breaks, doing my hobbies
+- meeting ppl at uni that had similar struggles
+- music bring back my focus
+- Scheduling, to do lists
+
+=== What were your biggest challenges in staying academically productive? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) [before] ===
+- Avoiding distractions
+- uni + work + self employment was too much, my ex partner stressed me out a lot
+- Motivation
+- keeping up with exercises
+- Time management
+- Motivation
+- distractions
+- Concentrating
+- not feeling absolutely bad about my studying outcomes
+- Not doing everything last minute
+- Concentration
+- dont go to partys
+- Not partying to much
+
+=== What were your biggest challenges in staying academically productive? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) [during] ===
+- That I worked a lot besides. And the super high workload of understanding maths 2 lecture and being able to manage the assignment. Besides that I tried to stay productive by reducing courses and therefore preventing overload.
+- Motivation
+- screen time
+- Isolation
+- Lack of structure
+- Concentrating
+- It actually was pretty easy to me
+- motivation and not knowing anyone at uni to do tasks together
+- the pandamic
+- Not panicking, thinking I could actually finish my studies
 
 === What were your biggest challenges in staying academically productive? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) [after] ===
 - Unexpected new tasks from uni
@@ -148,14 +188,41 @@ mental health resources
 - Submissions
 - deadlines
 - Concentrating
+- organizing all the things I do
+- A lot of workload that i put on myself bc i felt like i needed to "catch up"
+- nothing after covid i feel confident
+- Finding  the time
+- Balancing work - "life" (life = Uni)
+
+=== Did you adopt new tools (e.g., software, platforms) or habits? (Question inspired by Siegel et al. (2022), Palova et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [before] ===
+- No
+- meditation, self-care, sleeping cycle with the sun
+- Yes because first semester, so all Uni related stuff
+- Google Calendar, Anki
+- Obsidian
+- Trello
+- GitHub
+- No
+- no specific ones
+- no
+- i find discord, zoom
+- Going to library, meeting with others to study
+- no
 
 === Did you adopt new tools (e.g., software, platforms) or habits? (Question inspired by Siegel et al. (2022), Palova et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [during] ===
-- I lost some of my habits due to having very early courses with need of attendance
+- Zoom, teams
+- As I got into a part time job I adopted lots of new software. On the habit side I started to drink a coffee in the morning daily.
+- Well zoom and everything for Uni, also git, Latex etc what you need for Uni earlier or later anyway, Discord I already used
+- Notion, MS Teams
+- GitHub
+- zoom, git
+- notion
+- Zoom
 - No
-- AI tools
-- Obsidian
-- Focusmate
-- GitHub Copilot
+- I started using discord way more for communication
+- zoom , discord
+- No don’t think so, maybe working out while pretending to listen to a lesson
+- daily discord sessions
 
 === Can you briefly explain your answer above? (You can answer in full sentences or bullet points – whichever is easier for you.) [unspecified] ===
 - Mostly prefer in person classes
@@ -167,6 +234,12 @@ mental health resources
 - I switched to hybrid
 - Returning to structured university settings helped me
 - I now do more self learning
+- I tried to study remote as much as possible since it works better for me
+- A lot of my work is still remote and I still watch recordings of lectures a lot instead of going in person
+- Because of a depression I continued to study and work remotely
+- not the 100%
+- I found new friends and had a lot of fun, even though many options in life got less( like life or partys)
+- Uni didn't offer much for a long time more
 
 === What kind of support would have helped you better during the pandemic? (Question inspired by Beutel et al. (2021), Hohne et al. (2022)) (You can answer in full sentences or bullet points – whichever is easier for you.) [unspecified] ===
 - more chances to meet peers and connect
@@ -178,6 +251,10 @@ mental health resources
 - interactive online office hours
 - Personalized feedback
 - Studies wise support
+- it worked quite well for me
+- more gatherings (remote or in person) with other students, councelling
+- to provide more consultation hours
+- Social contacts even without the university contacts
 
 === Looking back, how would you describe your overall well-being during 2020–2022? (Question adapted from Beutel et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.) [unspecified] ===
 - not good
@@ -190,6 +267,12 @@ mental health resources
 - Emotionally unstable
 - isolation, poor sleep, and loss of academic direction
 - Goated
+- Well.
+- I was going through a lot of changes as a person so my well-being was very up and down. But it also helped me disconnect from busy work and studies which allowed me to use that time like a "break"
+- Not very well
+- im happy becouse covid was not an fun think many people risks there life and i am lucky to say that i got the chance to stay at home and dont need to work on a hospital or something
+- In the beginning Bad but I had it better than others  since I did not live alone.
+- Massively downhill riding
 
 === What new habits or routines did you form during the pandemic? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.) [unspecified] ===
 - calling people when I walk the dog, more self care, sleeping 8h no matter how much tasks there are left
@@ -200,6 +283,11 @@ mental health resources
 - calendar planning
 - Coding after midnight
 - Eating
+- getting up more early, using discord
+- Remote work and lectures and learning more on my own
+- music, sport
+- Don’t know …
+- Being able to live with an average of 2-3h sleep/d
 
 === Can you expand on why or why not from the previous question? (You can answer in full sentences or bullet points – whichever is easier for you.) [unspecified] ===
 - I still call people when walking the dog
@@ -207,6 +295,9 @@ mental health resources
 - I dropped them once I got back
 - improved my productivit
 - help me manage stress
+- using discord a lot
+- i study more alone when i feel like i can be more productive that way
+- Work overload
 
 === Is there anything else you would like to share about your experience during the pandemic? (You can answer in full sentences or bullet points – whichever is easier for you.) [unspecified] ===
 - Students were left alone, still are
@@ -214,3 +305,4 @@ Support from TUD was/is abysmal
 Organization and workload was/is very bad
 - pandemic made me more independent
 - Goated
+- No

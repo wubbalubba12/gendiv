@@ -1,6 +1,7 @@
 import pandas as pd
 import re
 from pathlib import Path
+from collections import defaultdict
 
 # === File Paths ===
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -9,51 +10,70 @@ TEXT_OUTPUT_FILE = BASE_DIR / "data" / "text_responses.txt"
 LIKERT_OUTPUT_FILE = BASE_DIR / "data" / "likert_responses.csv"
 PARTICIPANT_INFO_FILE = BASE_DIR / "data" / "participant_info.csv"
 
+def deduplicate_columns(columns):
+    seen = {}
+    new_cols = []
+    for col in columns:
+        if pd.isna(col):
+            base = "Unnamed"
+        else:
+            base = str(col).strip()
+        if base not in seen:
+            seen[base] = 0
+            new_cols.append(base)
+        else:
+            seen[base] += 1
+            new_cols.append(f"{base}.{seen[base]}")
+    return new_cols
+
 # === Load & Preprocess ===
-df = pd.read_csv(DATA_FILE, header=0, skiprows=[1])
-df = df.dropna(axis=1, how="all")
-df.columns = df.columns.str.replace(r"\s+", " ", regex=True).str.strip()
+df_survey = pd.read_csv(DATA_FILE, header=0, skiprows=[1])
+cleaned_columns = df_survey.columns.str.replace(r"\s+", " ", regex=True).str.strip()
+df_survey.columns = deduplicate_columns(cleaned_columns)
+df = df_survey.dropna(axis=1, how="all")
+
+# === Gruppiere Spaltenvarianten für Phasenzuordnung ===
+question_variants = defaultdict(list)
+for col in df.columns:
+    base = re.sub(r"\.\d+$", "", col).strip()
+    question_variants[base].append(col)
+
+def get_phase_by_index(col, variants):
+    index = variants.index(col)
+    if len(variants) == 3:
+        return ['before', 'during', 'after'][index]
+    elif len(variants) == 2:
+        return ['before', 'after'][index]
+    else:
+        return 'unspecified'
 
 # === Identify Open Text Columns ===
 text_questions = {}
-phase_map = {"0": "before", "1": "during", "2": "after"}
 
 with open(TEXT_OUTPUT_FILE, "w", encoding="utf-8") as f:
-    for col in df.columns:
-        if any(s in col for s in ["[Punktzahl]", "[Feedback]", "Unnamed", "Gesamtpunktzahl", "Zeitstempel"]):
-            continue
+    for base, variants in question_variants.items():
+        sorted_variants = sorted(variants)
+        for col in sorted_variants:
+            phase = get_phase_by_index(col, sorted_variants)
 
-        # Extract base column (without .0, .1, .2 suffix)
-        suffix_match = re.search(r"\.(\d+)$", col)
-        base_col = re.sub(r"\.\d+$", "", col).strip()
+            if any(s in col for s in ["[Punktzahl]", "[Feedback]", "Unnamed", "Gesamtpunktzahl", "Zeitstempel"]):
+                continue
 
-        if suffix_match:
-            phase = phase_map.get(suffix_match.group(1), "during")
-        else:
-            # If other versions with suffix exist, this is likely "before"
-            possible_variants = [c for c in df.columns if c.startswith(base_col + ".")]
-            phase = "before" if possible_variants else "unspecified"
+            series = df[col]
+            if isinstance(series, pd.DataFrame):
+                series = series.iloc[:, 0]
+            series = series.dropna().astype(str).map(str.strip)
+            responses = series[series != ""]
 
-        # Prepare Series
-        series = df[col]
-        if isinstance(series, pd.DataFrame):
-            series = series.iloc[:, 0]
-        series = series.dropna().astype(str).map(str.strip)
-        responses = series[series != ""]
+            if responses.empty:
+                continue
 
-        if responses.empty:
-            continue
+            if "(You can answer in full sentences or bullet points – whichever is easier for you.)" in base:
+                if len(responses) >= 1 and responses.str.len().max() > 10:
+                    question_key = f"{base} [{phase}]"
+                    text_questions[question_key] = responses.tolist()
 
-        unique_vals = responses.unique()
-        avg_len = pd.Series(unique_vals).str.len().mean()
-
-        # Only include questions explicitly marked as open-text
-        if "(You can answer in full sentences or bullet points – whichever is easier for you.)" in base_col:
-            if len(responses) >= 1 and responses.str.len().max() > 10:
-                question_key = f"{base_col} [{phase}]"
-                text_questions[question_key] = responses.tolist()
-
-    # Now write results
+    # Write responses
     for question, responses in text_questions.items():
         f.write(f"\n=== {question} ===\n")
         for resp in responses:
@@ -67,49 +87,35 @@ yesno_pattern = re.compile(r"^(Yes|No)$", re.IGNORECASE)
 
 likert_rows = []
 
-for col in df.columns:
-    if any(s in col for s in ["[Punktzahl]", "[Feedback]", "Unnamed"]):
-        continue
+for base, variants in question_variants.items():
+    sorted_variants = sorted(variants)
+    for col in sorted_variants:
+        phase = get_phase_by_index(col, sorted_variants)
 
-    series = df[col]
-    if isinstance(series, pd.DataFrame):
-        series = series.iloc[:, 0]
+        if any(s in col for s in ["[Punktzahl]", "[Feedback]", "Unnamed"]):
+            continue
 
-    series = series.dropna().astype(str).str.strip()
+        series = df[col]
+        if isinstance(series, pd.DataFrame):
+            series = series.iloc[:, 0]
+        series = series.dropna().astype(str).str.strip()
 
-    # Check if Likert-style or Yes/No question
-    is_likert = series.str.match(likert_pattern).mean() > 0.6
-    is_yesno = series.str.match(yesno_pattern).mean() > 0.8
+        is_likert = series.str.match(likert_pattern).mean() > 0.6
+        is_yesno = series.str.match(yesno_pattern).mean() > 0.8
 
-    if not (is_likert or is_yesno):
-        continue  # Skip anything else
+        if not (is_likert or is_yesno):
+            continue
 
-    # Extract base question
-    suffix_match = re.search(r"\.(\d+)$", col)
-    base_q = re.sub(r"\.\d+$", "", col).strip()
+        for i, (idx, val) in enumerate(series.items(), start=1):
+            response = val.capitalize() if is_yesno else val
+            likert_rows.append({
+                "participant": i,
+                "question": base,
+                "phase": phase,
+                "response": response
+            })
 
-    # Infer phase
-    if suffix_match:
-        phase = {
-            "0": "before",
-            "1": "during",
-            "2": "after"
-        }.get(suffix_match.group(1), "during")
-    else:
-        possible_variants = [c for c in df.columns if c.startswith(base_q + ".")]
-        phase = "before" if possible_variants else "unspecified"
-
-    # Store responses
-    for i, (idx, val) in enumerate(series.items(), start=1):
-        response = val.capitalize() if is_yesno else val
-        likert_rows.append({
-            "participant": i,
-            "question": base_q,
-            "phase": phase,
-            "response": response
-        })
-
-# Exact column names to keep (match from original CSV)
+# === Extract Participant Info ===
 participant_questions = [
     "Are you currently enrolled in a university degree program?",
     "Which degree program are you currently pursuing? (e.g., B.Sc. Computer Science)",
@@ -122,16 +128,14 @@ participant_questions = [
     "Would you be interested in participating in a follow-up interview or study? If yes, please leave your email address below (your email will be stored separately and not linked to your responses):"
 ]
 
-# Filter out unwanted "[Punktzahl]" versions
 participant_cols = [col for col in df.columns if col in participant_questions]
 
-# Extract and save
 participant_df = df[participant_cols].copy()
 participant_df.to_csv(PARTICIPANT_INFO_FILE, index=False)
 
 print(f"✅ Saved participant demographic info to {PARTICIPANT_INFO_FILE.name} with shape {participant_df.shape}")
 
-# === Save to CSV for analysis ===
+# === Save Likert/YesNo responses to CSV ===
 likert_df = pd.DataFrame(likert_rows)
 likert_df.to_csv(LIKERT_OUTPUT_FILE, index=False)
 
