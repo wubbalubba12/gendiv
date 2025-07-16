@@ -1,112 +1,290 @@
+=== Which degree program are you currently pursuing? (e.g., B.Sc. Computer Science) [unspecified] ===
+- B.Sc. Computer Science
+- M.Sc. Computer Science
+- Computer Science
+- Computer science
+- M.Sc. Wirtschaftsinformatik
+- Business Informatics
+- Btech computer science
+- Computer science, b.tech
+- B.Sc., Computer Science
+- Business Administration
+- Msc. Computer Engineering
+- B.Sc. Informatik (Computer Science)
+- Inf, Bsc
+- B.Sc. Computer Science
+- B.Sc. Infornatik
+- Data science
+- B.SC. Informatik
+- Informatik bsc
+- M. Sc. Wirtschaftsinformatik
+- Cognitive Science B.Sc.
+- CS
+- M.Sc. Business Informatics
 
-=== If yes, please specify what kind mental well-being support was provided from my employer. (Question inspired from Russo et al. (2021), Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) [before] ===
-- online meetups
-mental health resources
+=== If yes, please specify what kind mental well-being support was provided from my employer. (Question inspired from Russo et al. (2021), Ralph et al. (2020)) (You can answer in full sentences or bullet points - Flexible work, events
+- A lot of flexibility in tasks I work on and choices when I work
 - Flexibility
-- wellness check-ins
+- Online meetups
+- Mental health resources
+- Wellness check-ins
+- Home Office
 
 === What were your main sources of stress? (Question adapted from Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [before] ===
-- Exams, other people
-- Deadlines, Isolation
-- uni, my partner, being in high semesters, fear of death
-- Exam Preparation, Workload
-- The pressure of my studies and responsibilities.
-- Submissions for Uni, exams
-- exams,
 - Isolation, tech issues
-- Motivation
-- family
+- University deadlines, many different and difficult courses at the same time
+- Submissions for Uni, exams
+- Personal issues, loneliness, university pressure, boredom
+- The pressure of my studies and responsibilities
 - Emotional disconnect
+- University and work
+- Finding a job. Getting used to university. Getting along with my family
+- I was injured and could not do sports while having trouble organising my studying life while also working
+- Study-related parts and some basic finance-related issues
+- Educational pressure
+- Motivation
+- A major source of stress for me is uncertainty, not knowing what to expect or how things will turn out
+- Deadlines, isolation
+- I think the point during corona that the social life was completely gone for 1–2 years
+- Exams
 - College
+- Assignments and deadlines + drama with friends
+- Uni, my partner, being in high semesters, fear of death
+- Wake up early
+- Family
+- University deadlines
+- Exam preparation, workload
+- Exams, other people
+- Exams, juggling multiple partnerships, having enough time for all of my friends AND studying AND working AND Fachschaft work AND everything else going on
+- Having online classes for 8 hours and 5 times a week
+- Deadlines, uncertainty about the future
 
 === What strategies did you use to manage your stress? (Question inspired from Hohne et al. (2022), Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [before] ===
-- Gaming, Music
-- meditation
-- Sports, gaming, friends, but nothing distincitve really
-- exercise
-- Journaling, meditation
-- music
+- Just did my best
+- Sports, gaming, friends, but nothing distinctive really
+- None but getting really into my feelings
 - Netflix, coding
+- Hang out with friends. Do sports.
+- Not that many, usually going outside, do sports with people but my foot was hurt
+- Journaling, meditation
+- Be active by adapting hobbies, going out with friends and some sports
+- Sports to clear my mind
+- Music
+- The way I try to manage that stress is by turning uncertainty into clarity, whether that means planning ahead, breaking things down into smaller, and taking action
+- Gaming, music
+- I played a lot of music and learned new instruments
+- Exercise
 - Play games
+- Journaling my feelings + talking to friends
+- Meditation
+- I did not use any strategy
+- ToDo Calendar
+- None
+- Always keeping busy I guess
+- Talking to friends
+- Doing some sports, meet friends
 
 === What helped you stay productive with your studies? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.) [before] ===
-- Spend as much time as needed
-- I was not very productive
-- going outside
-- Study groups
+- Other students
+- Going outside
+- Study with other students
+- My university friends
+- My discipline
 - Structure
-- study groups
+- Peer-support like group study
+- My social life with my friend
+- Study groups
 - My mom
+- Friends around me that worked on same or similar studies
+- I was not very productive
+- Using the Pomodoro method
+- Study groups
+- Communication with peers
+- Spend as much time as needed
+- Being at uni the entire day
+- Learning with friends instead of alone
+- Interests in topics
+- Meet friends and doing exercises together
 
 === What were your biggest challenges in staying academically productive? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) [before] ===
-- Avoiding distractions
-- uni + work + self employment was too much, my ex partner stressed me out a lot
 - Motivation
-- keeping up with exercises
+- Earning money and having free time
+- Keeping up with exercises
+- Not partying too much
+- Concentration
+- Not having a quiet place to study
+- Not feeling absolutely bad about my studying outcomes
+- Staying active with a lot of new info and finding help online
 - Time management
-- Motivation
-- distractions
+- Burnout, too many things to do, procrastination
+- Don’t go to parties
+- Time management
 - Concentrating
+- Not doing everything last minute
+- Uni + work + self-employment was too much, my ex-partner stressed me out a lot
+- Tiredness
+- Distractions
+- Handle university and free time activities
+- Avoiding distractions
+- Self-motivation (ADHD), time
+- Never seeing colleagues, could not concentrate for 8 hours a day (virtually)
+- Lots of parties with friends
 
 === Did you adopt new tools (e.g., software, platforms) or habits? (Question inspired by Siegel et al. (2022), Palova et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [before] ===
 - No
-- meditation, self-care, sleeping cycle with the sun
+- No
+- Yes, some
 - Yes because first semester, so all Uni related stuff
-- Google Calendar, Anki
-- Obsidian
-- Trello
+- Going to library, meeting with others to study
 - GitHub
 - No
+- No specific ones
+- Obsidian
+- Trello
+- No..
+- I find Discord, Zoom
+- Google Calendar, Anki
+- Meditation, self-care, sleeping cycle with the sun
+- Not really
 
 === If yes, please specify what kind mental well-being support was provided from my employer. (Question inspired from Russo et al. (2021), Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) [during] ===
-- flexibility
-- remote
-- relaxed deadlines
+- Can't remember in detail. But work was even more flexible, working fully remotely.
+- A lot of flexibility in tasks I work on and choices when I work
+- Remote
+- Flexible times, bonus pays, help with foreign office
+- Relaxed deadlines
+- Flexibility
 - Online therapy help
+- Home office
+- Home Office, Flexibility
 
 === What were your main sources of stress? (Question adapted from Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [during] ===
-- Too few to do
-- uni, work, ex partner (until 2021)
-- Workload,
-- Uni deadline stress, constant bombarding of tasks to do, not being able to finish anything because I don't understand anything and getting no help at all from University etc
-- Loneliness
+- Overwhelming course work due to being new to university courses
+- Lack of motivation for course work
+- Lack of success in parts of course work
 - Lack of routine
+- Not getting much done for university
+- Uni deadline stress, constant bombarding of tasks to do, not being able to finish anything because I don't understand anything and getting no help at all from university etc
+- Loneliness, boredom, panicking when having to perform in uni
+- Work pressure
+- A breakup
+- University, being up-to-date with all the assignments and studying from home, where I had no appropriate place to study. I had no daily routine, which was taxing. Also, being stuck at home with my sick mother was very emotionally exhausting
+- My family lives in a small flat in a big city and did not get along well (while I lived in a flatshare with a lot of space and a nice surrounding)
 - Managing workload
-- loneliness
-- isolation
-- work pressure
+- Isolation, lack of direct contact to friends and colleagues, no social gatherings and majorly neither sport to watch nor play
+- Academic pressure
+- Loneliness
+- As I mentioned before, uncertainty is one of the biggest sources of stress for me. During the pandemic, that uncertainty was so overwhelming that I couldn't even grasp the full extent of it. Every day felt like a constant stream of stress
+- COVID and that I can't live the social life that I had before
+- Loneliness
 - College
+- Handling university and work and waking up on time
+- Uni, work, ex-partner (until 2021)
+- The feeling of being left behind due to limited contact with friends
+- Isolation
+- University deadlines
+- Workload
+- Too few to do
+- Corona, losing my social life
+- University
+- Isolation
+- Deadlines, problems with the internet
 
 === What strategies did you use to manage your stress? (Question inspired from Hohne et al. (2022), Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [during] ===
-- meditation, lots of coffee and tee, long walks and bike rides
+- None
+- Escape in hobbies like reading
+- Gaming
+- Playing video games, and doing individual sports like running
 - Nothing really, maybe going outside and gaming
-- Yoga
-- gaming
+- I did not find good methods to manage my stress. When it was possible, I took an exchange semester, which helped a little bit
+- Going outside and taking walks and hikes (and talks) alone as well as with my boyfriend or the nice people I lived with
 - Journaling
+- Talking to family and friends on call, home workouts and listening to songs or dancing to them
+- Sports
 - Music, movies
-- online gaming
+- Since there was nothing I could actively control or resolve, it felt impossible to manage that stress in any meaningful way
+- Music
+- Yoga
+- Journaling
+- Meditation, lots of coffee and tea, long walks and bike rides
+- Take a walk
+- Online gaming
+- Time management tools
 
 === What helped you stay productive with your studies? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.) [during] ===
-- A lot of available time. Easier access to materials (recording, ...)
-- long learning sessions and telling people I dont have time for the tasks they want me to do for them (except work and uni). I got very good at saying no.
 - Nothing
-- Timetable
+- Contact with other students in my courses
 - No motivation
-- recorded lectures
+- Nearly nothing...
+- I wasn’t productive
+- Projects
+- I forced myself
+- Taking breaks, having the possibility to create my own working structures and working remotely, combining tasks, watching lessons way faster
+- Recorded lectures
+- Motivation and the hope that it will be over soon
+- Exchange with co-students
 - Task managers
-- discipline
-- projects
+- It was very difficult to stay productive
+- Timetable
 - Career
+- Long learning sessions and telling people I don’t have time for the tasks they want me to do for them (except work and uni). I got very good at saying no
+- The Pomodoro method, take a walk
+- Discipline
+- No other obligations because they were not possible
+- A lot of available time. Easier access to materials (recording, ...)
+- Meeting friends online and doing work together
 
 === What were your biggest challenges in staying academically productive? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) [during] ===
-- That I worked a lot besides. And the super high workload of understanding maths 2 lecture and being able to manage the assignment. Besides that I tried to stay productive by reducing courses and therefore preventing overload.
-- Motivation
-- screen time
-- Isolation
+- Lack of motivation
+- Change of learning processes compared to normal school (before the pandemic)
+- Not seeing any other students, not physically being in university
+- Not panicking, thinking I could actually finish my studies
 - Lack of structure
+- Getting the motivation. Getting over procrastinating. Not having university colleagues and friends to discuss the university content together
+- It actually was pretty easy to me
+- Emotional and mental imbalance, lack of energy and physical movements, social distancing caused me problems because I am an extroverted person, and because my studies and work are mostly on computer I need communication in real with people
+- Avoiding procrastination as at home there were many distractions
+- Since all lectures and Übungsgruppen were conducted entirely online through Discord and Zoom, I couldn’t keep up with any of the courses. There was no one I could really ask for help. The exercise groups were held using voice only, I always struggled a lot because non-verbal communication is essential for me, and finally I wasn’t able to participate in a single one of them
+- The pandemic
+- Screen time
 - Concentrating
+- Motivation and not knowing anyone at uni to do tasks together
+- That I worked a lot besides. And the super high workload of understanding maths 2 lecture and being able to manage the assignment. Besides that I tried to stay productive by reducing courses and therefore preventing overload
+- Stress caused by lack of work-life balance
+- Isolation
+- Keep motivated
+- Motivation
+- Motivation, mental energy
+- I found it difficult to ask questions online
 
-=== If yes, please specify what kind mental well-being support was provided from my employer. (Question inspired from Russo et al. (2021), Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) [after] ===
+=== Did you adopt new tools (e.g., software, platforms) or habits? (Question inspired by  Siegel et al. (2022), Palova et al. (2023)) [during] ===
+- No
+- Zoom and increased use of Discord
+- Increased use of digital notes for course work
+- Yes, basically forced by work and private interest
+- Well, Zoom and everything for Uni, also Git, LaTeX etc. — what you need for Uni earlier or later anyway. Discord I already used
+- No, don’t think so, maybe working out while pretending to listen to a lesson
+- Zoom
+- No
+- I started using Discord way more for communication
+- GitHub
+- Yes, like LLM helps, research tools, more online news and looking into infos more online and going less to the libraries
+- Chatting in Discord
+- Zoom
+- Zoom, Git
+- Zoom, Discord
+- Notion, MS Teams
+- As I got into a part-time job I adopted lots of new software. On the habit side I started to drink a coffee in the morning daily
+- Walking, oversleeping
+- Notion
+- Jira
+- Zoom, Teams
+- Not really, Zoom I guess, but only if I had to
+- Daily Discord sessions
+- Discord, Zoom
+
+
+=== I received sufficient mental well-being support from my employer (if applicable, e.g., flexibility, check-ins, wellness resources). If yes, please specify what kind mental well-being support was provided from my employer. (Question inspired from Russo et al. (2021), Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) [after] ===
 - Still much flexible working times and palces (Home Office)
 - a lot of flexibility in tasks I work on and choices when I work
 - more work based training and workshops for optimising work culture, incentives and more activities with the team in and out of the office
