@@ -107,110 +107,250 @@ mental health resources
 - Concentrating
 
 === If yes, please specify what kind mental well-being support was provided from my employer. (Question inspired from Russo et al. (2021), Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) [after] ===
+- Still much flexible working times and palces (Home Office)
+- a lot of flexibility in tasks I work on and choices when I work
+- more work based training and workshops for optimising work culture, incentives and more activities with the team in and out of the office
 - mental health days
 - weekly check-ins
+- Home office
+- flexibility, home office, sports club
 
 === What were your main sources of stress? (Question adapted from Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [after] ===
-- work, uni, driving to uni
-- Workload, Procrastinating
-- Still Uni deadlines / exercises / submissions / papers, theses, also the insanely bad organization from the Uni because of which late changes in the semester study plan have to be made, courses changed etc
-- Career planning
+- Similar things as during the pandemic.
+- Also mounting stress needing to catch up for failings in previous years.
 - Exams
+- Finally writing my bachelor's thesis after it was postponed forever during the coronavirus pandemic
+- Still Uni deadlines / exercises / submissions / papers, theses, also the insanely bad organization from the Uni because of which late changes in the semester study plan have to be made, courses changed etc
+- To much workload, starting to work next to studies
+- I just have too many things that interest me now, that I approach, so I don't have much free time. I've become a little of a workaholic after the pandamic.
+- managing working, studying, family, boyfriend and hobbies
+- academic life, inflation, insufficient communication with the teammates, because I feel the communication skill has depleted after the pandemic
+- maintaining motivation
 - Uncertainty
-- Pressure to keep up
+- Always uncertainty
+- now its the Klausurphase not corona
+- Career planning
 - College
+- Deadlines and feeling like I "wasted time" academically because I didnt feel like i accomplished a lot academically during the pandemic
+- work, uni, driving to uni
+- Waking up early
+- Pressure to keep up
+- University Deadlines
+- Workload, Procrastinating
+- I lost a lot of social and bodily energy over the pandemic.
+- Burnout
+- deadlines, high effort
 
 === What strategies did you use to manage your stress? (Question inspired from Hohne et al. (2022), Soares dos Passos et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [after] ===
-- Distracting hobbies
-- I quit my job in january 2024 to have more time for uni. That helped me to double the CP amount and improve my grades
-- No distinct strategies, but maybe going outside or motorcycle riding, gaming
-- Peer support group
 - music
-- meditation
+- Still reading but also socializing with friends.
+- Avoidance...
+- No distinct strategies, but maybe going outside or motorcycle riding, gaming
+- Doing exercises bevor going to sleep
+- Meetings with friends, finding new hobbies such as cooking and taking care of plants.
+- go bouldering/dancing
+- Sports, hobbies, meeting family and friends and being socially active(attending gatherings, concerts, parties)
+- little peer pressure by an competitive (in a good way) friends group
+- I'm preparing step by step, making plans, and putting them into action
+- Peer support group
 - Time table
+- Talking to friends and realizing that i can do things in my own time
+- I quit my job in january 2024 to have more time for uni. That helped me to double the CP amount and improve my grades
+- Going to bed early
+- meditation
+- Distracting hobbies
+- doing lots of sports and meeting friends in person
 
 === What helped you stay productive with your studies? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.) [after] ===
-- tracking the time I used for each course. This allowed me to know if I'm on track
+- Work-Life balance.
+- Self-pressure to perform.
+- Other students in my classes.
 - Locking in
-- time management apps
-- fixed routine
-- personal goals
+- Scheduling, to do lists
 - mini-projects
+- I have some motivation back because I'm interested in my studies again. But also, I don't want my studies to stretch out as much as possible.
+- having breaks, doing my hobbies
+- new AI tools, recorded lectures, intensive and creative projects
+- better time management
+- studying together with friends
+- fixed routine
+- Spending extended time in an open space where people study or work together
+- music bring back my focus
+- time management apps
 - Motivation
+- meeting ppl at uni that had similar struggles
+- tracking the time I used for each course. This allowed me to know if I'm on track
+- Making detailed plans, Todo lists
+- personal goals
+- Needed to be finished.
+- doing exercises together
 
 === What were your biggest challenges in staying academically productive? (Question inspired by Ralph et al. (2020)) (You can answer in full sentences or bullet points – whichever is easier for you.) [after] ===
-- Unexpected new tasks from uni
 - Motivation
-- - High workload in general
+- Bad habits developed from years before.
+- Needing to catch up from less successful years before.
+- High workload in general
 - Overworking and chronic stress leading to ever more reduced productivity, concentration abilities (combined with general state of the world btw)
-- Time pressure
-- Motivation
+- Finding the time
+- I did not face many challenges.
+- organizing all the things I do
+- Discipline, some exhaustion from the pandemic, problems at the university related to financing the projects, because of which some projects are not possible completely
+- not depending on others when studying
 - Submissions
-- deadlines
+- Procrastination
+- nothing after covid i feel confident
+- Time pressure
 - Concentrating
+- A lot of workload that i put on myself bc i felt like i needed to "catch up"
+- Unexpected new tasks from uni
+- Regulating sleep schedule
+- deadlines
+- Balancing work - "life" (life = Uni)
 
 === Did you adopt new tools (e.g., software, platforms) or habits? (Question inspired by Siegel et al. (2022), Palova et al. (2023)) (You can answer in full sentences or bullet points – whichever is easier for you.) [during] ===
-- I lost some of my habits due to having very early courses with need of attendance
 - No
-- AI tools
-- Obsidian
-- Focusmate
+- no
+- Not really. Just continuation of old tools. And a small bit of AI use.
 - GitHub Copilot
+- No.
+- no specific ones
+- AI tools like chatgpt for both studies and work, more active life with hobbies, socially being active to build contacts
+- Obsidian
+- No..
+- AI tools
+- I lost some of my habits due to having very early courses with need of attendance
+- Going to the gym
+- Focusmate
 
-=== Can you briefly explain your answer above? (You can answer in full sentences or bullet points – whichever is easier for you.) [unspecified] ===
-- Mostly prefer in person classes
-- went to classes at university again, met peers
-- I always was a remote learner as driving 2 hours everyday for most of the times just one or two courses is a bif waste of time. So at the pandemic uni was much more suited for my learning style. After uni I still do most of the things at home, but now the time wasting driving is back.
-- I learned how to work alone at home, and after the pandemic it stayed that way. I did not go back to the study style I had before the pandemic.
-- Still a lot of remote work. Also, not moving to Darmstadt during the pandemic lead to me now commuting most of my Masters time
-- resumed in-person lectures
+=== After restrictions eased, did you return to your pre-pandemic work/study style?
+Can you briefly explain your answer above? (You can answer in full sentences or bullet points – whichever is easier for you.) [unspecified] ===
+- I started studying at the beginning of the Pandemic, so all my learning habits in university were (unfortunately) developed during Covid. And adopting old habits from school would not have worked due to different environment.
 - I switched to hybrid
-- Returning to structured university settings helped me
+- went to classes at university again, met peers
+- It took several more semester until I was back at university properly and regularly to do my Master's
+- Still a lot of remote work. Also, not moving to Darmstadt during the pandemic lead to me now commuting most of my Masters time
+- I found new friends and had a lot of fun, even though many options in life got less( like life or partys)
 - I now do more self learning
+- Because of a depression I continued to study and work remotely
+- I did return by getting my productivity back, but my style changed completely. I've become a workaholic. So far, it's been going good, but I'm afraid I might burn out at some point. Altough I'm worried, I don't want to drop anything, because I just for some reason want to do as much as possible.
+- I tried to study remote as much as possible since it works better for me
+- I used to do more self-study and research, and stayed with this ahead. Sometimes opt online meetings avoiding certain travel time and collaborating on projects and communication at both work and study online. - More, individual studying made things interesting for me and reduced dependency on the university. Watching recorded lectures was the best part.
+- the main thing that changes was not studying together in discord and explain each other the topics talking to a scree, instead in person. but the main style did not change at all.
+- Even after restrictions were lifted, I found it difficult to return to any structured or productive study style — I felt like I was still catching up for a long time
+- not the 100%
+- resumed in-person lectures
+- A lot of my work is still remote and I still watch recordings of lectures a lot instead of going in person
+- I always was a remote learner as driving 2 hours everyday for most of the times just one or two courses is a bif waste of time. So at the pandemic uni was much more suited for my learning style. After uni I still do most of the things at home, but now the time wasting driving is back.
+- Became more aware of the importance of activities like walking or working out
+- Returning to structured university settings helped me
+- i keept learning many things remote, because i felt confident in learning this way
+- I learned how to work alone at home, and after the pandemic it stayed that way. I did not go back to the study style I had before the pandemic.
+- Mostly prefer in person classes
+- Corona never really went away, I still wear a mask in public transport, when shopping, ...
+- Uni didn't offer much for a long time more
+- meet friends in person, doing sports together and learn for studies
 
 === What kind of support would have helped you better during the pandemic? (Question inspired by Beutel et al. (2021), Hohne et al. (2022)) (You can answer in full sentences or bullet points – whichever is easier for you.) [unspecified] ===
-- more chances to meet peers and connect
-- More connection to other students. Discors is fine but very anonymous and too public. Having something like zoom meetings with group separation based on common courses or something would have been nice. But I had lots of chats with friends instead.
-- Being able to study together instead of alone
-- literally any support, TU Darmstadt provides/provided literally nothing, on the contrary they made Uni life actively worse and it's still way worse than compared to e.g. Goethe Uni
+- More outreach and communication/interaction with other students. The actual classes themselves were mostly fine in remote style, but the lack of peers to easily build connection and study groups were a major hindrance.
 - Psychological counseling
+- more chances to meet peers and connect
+- literally any support, TU Darmstadt provides/provided literally nothing, on the contrary they made Uni life actively worse and it's still way worse than compared to e.g. Goethe Uni
+- Social contacts even without the university contacts
+- Keeping contact with my peers, but I don't think online contact would have helped much. Maybe getting more mental health support from university.
+- it worked quite well for me
 - More mental health days
+- some financial ease and aids would've been better
 - interactive online office hours
-- Personalized feedback
+- Nothing
+- to provide more consultation hours
 - Studies wise support
+- more gatherings (remote or in person) with other students, councelling
+- More connection to other students. Discors is fine but very anonymous and too public. Having something like zoom meetings with group separation based on common courses or something would have been nice. But I - had lots of chats with friends instead.
+- Being new to university, I wasn't used to organizational aspects at all, and I feel there was insufficient online guidance that explained these things in simple terms.
+- Personalized feedback
+- support in peer communication
+- Being able to study together instead of alone
+- more Zoom Sessions for asking questions
 
 === Looking back, how would you describe your overall well-being during 2020–2022? (Question adapted from Beutel et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.) [unspecified] ===
-- not good
-- fine but in academic context a bit lonely and isolated
-- In the beginning it was a bit concerning, but after getring used to it, it was nice that everyone had time, wanted to connect, we were doing lots outside and had great summers. So from the private side it was really a blessing and after breaking up with my ex, there was much less stress, so it was a very good time for me.
-- I was very tired, unmotivated.
-- Catastrophic, I literally had to go to therapy
-- emtionally drained some weeks
+- Not well or bad but they had a lasting negative impact on my academic habits and success.
 - Poor
+- fine but in academic context a bit lonely and isolated
+- All in all good, but stagnation in studies
+- Catastrophic, I literally had to go to therapy
+- In the beginning Bad but I had it better than others since I did not live alone.
+- Not very well
+- Not good, I was stressed, I procrastinated, my social life was dire and I did even know why I was studyinig.
+- Well.
+- It was fine, mentally disturbing but helped me discover other side of my life. I started appreciating things and my life more than ever. I was thankful for small things as well. I started putting weight to values in life along materialistic things.
+- okay, managed it alright because social deficits would party be compensated with long phone calls
 - Emotionally unstable
-- isolation, poor sleep, and loss of academic direction
+- It was probably the worst period for me, as every single day was filled with stress
+- im happy becouse covid was not an fun think many people risks there life and i am lucky to say that i got the chance to stay at home and dont need to work on a hospital or something
+emtionally drained some weeks
 - Goated
+- I was going through a lot of changes as a person so my well-being was very up and down. But it also helped me disconnect from busy work and studies which allowed me to use that time like a "break"
+- In the beginning it was a bit concerning, but after getring used to it, it was nice that everyone had time, wanted to connect, we were doing lots outside and had great summers. So from the private side it was really a blessing and after breaking up with my ex, there was much less stress, so it was a very good time for me.
+- I liked being at home, which made me feel more psychologically comfortable, but I lacked physical activity.
+- isolation, poor sleep, and loss of academic direction
+- not too got
+- I was very tired, unmotivated.
+- not good
+- baaaaad
+- Massively downhill riding
+- I think it was quiet good, but I had some periods followed by stress
 
 === What new habits or routines did you form during the pandemic? (Question inspired by Russo et al. (2021)) (You can answer in full sentences or bullet points – whichever is easier for you.) [unspecified] ===
-- calling people when I walk the dog, more self care, sleeping 8h no matter how much tasks there are left
-- No
-- journaling
+- Most every of my learning habits were formed during the pandemic.
 - Online notetaking
-- Using Discord for study groups
-- calendar planning
+- sleep long and exercise in the evening or at night
+- No
+- Don’t know …
 - Coding after midnight
+- During the pandamic I was mostly lazy, so I did not develop good new habits. Since the end of the pandamic I've become very work-focused.
+- getting up more early, using discord
+- Studying online, fact checking related to any info, online meetings, more sharing of news and data with friends and families
+- running to clear my mind
+- Using Discord for study groups
+- Nothing
+- music, sport
+- journaling
 - Eating
+- Remote work and lectures and learning more on my own
+- calling people when I walk the dog, more self care, sleeping 8h no matter how much tasks there are left
+- Walking and waking up late
+- calendar planning
+- A new addiction c:
+- Being able to live with an average of 2-3h sleep/d
+- doing exercises by myself
 
-=== Can you expand on why or why not from the previous question? (You can answer in full sentences or bullet points – whichever is easier for you.) [unspecified] ===
-- I still call people when walking the dog
-- help me stay organized
+=== Have you continued any of those habits after returning to in-person or hybrid formats?
+Can you expand on why or why not from the previous question? (You can answer in full sentences or bullet points – whichever is easier for you.) [unspecified] ===
+- Mostly because they're just what I know, but also because breaking habits and making new (better) ones is hard.
 - I dropped them once I got back
+- On-site dates with travel times make getting up late no longer so easy
+- I did not continue any habits because my style totally changed since then.
+- using discord a lot
+- As mentioned earlier, I saw some positivities in online meetings, collaborations and studying from the internet and self-learning effectively
+- the running to clear my find as I find it very effective to be balanced
 - improved my productivit
+- help me stay organized
+- i study more alone when i feel like i can be more productive that way
+- I still call people when walking the dog
+- I kept doing it because I liked how walking made my mind feel clear and relaxed
 - help me manage stress
+- Work overload
+- It helped me to look at things on my own, and I was sometimes more productive than at university with many friends around. I took a lot of time to study by myself.
 
 === Is there anything else you would like to share about your experience during the pandemic? (You can answer in full sentences or bullet points – whichever is easier for you.) [unspecified] ===
+- Starting university during the pandemic had a pretty bad impact on my academic success, and I'm likely never going to 'make up' for those years. They also had a lasting impact on my habits having made it difficult to get into better ones afterwards.
+- Was a though but also interesting time
 - Students were left alone, still are
-Support from TUD was/is abysmal
-Organization and workload was/is very bad
-- pandemic made me more independent
+- Support from TUD was/is abysmal
+- Organization and workload was/is very bad
+- No.
+- It was not at all easy; as computer science students we already study and work on the computers, staying social and mental also needed online tools and help. This was physically exhausting, which in turn result in mental and emotional stress. It took the most motivation and focus out of my whole life.
+- I don’t have anything particularly special to share, but I actually started my very first semester during the pandemic. My first two semesters were fully online, and because the starts went so poorly, as international student I struggled to catch up with university for almost two years. I'm not exactly sure why it took me so long to recover..
 - Goated
+- pandemic made me more independent
+- No
