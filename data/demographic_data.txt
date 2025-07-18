@@ -1,0 +1,101 @@
+=== Are you currently enrolled in a university degree program? ===
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- Yes
+- No
+
+
+=== Which degree program are you currently pursuing? (e.g., B.Sc. Computer Science) [unspecified] ===
+- B.Sc. Computer Science  
+- M.Sc. Computer Science  
+- Computer Science  
+- Computer science  
+- M.Sc. Wirtschaftsinformatik  
+- Business Informatics  
+- Btech computer science  
+- Computer science, b.tech  
+- B.Sc., Computer Science  
+- Business Administration  
+- Msc. Computer Engineering  
+- B.Sc. Informatik (Computer Science)  
+- Inf, Bsc  
+- B.Sc. Computer Science  
+- B.Sc. Infornatik  
+- Data science  
+- B.SC. Informatik  
+- Informatik bsc  
+- M. Sc. Wirtschaftsinformatik  
+- Cognitive Science B.Sc.  
+- CS  
+- M.Sc. Business Informatics
+
+
+=== What is your current year of study? ===
+- 1st year: 12.9%
+- 2nd year: 9.7%
+- 3rd year: 16.1%
+- 4th year or more: 61.3%
+
+=== Did you have a part-time job related to IT or software development during the pandemic (2020–2022)? ===
+- Yes: 62.5%
+- No: 37.5%
+
+
+=== What is your current age? ===
+- 16–18: 0%
+- 19–21: 9.4%
+- 22–24: 53.1%
+- 25–27: 21.9%
+- 27+: 15.6%
+
+
+=== With which gender do you identify? ===
+- Male: 56.3%
+- Female: 34.4%
+- Non-binary: 3.1%
+- Prefer not to say: 6.3%
+
+=== Did you primarily attend university remotely or in person during the pandemic? ===
+- Mostly remote: 71.9%
+- Hybrid: 28.1%
+- Mostly in person: 0%
+
+
+=== Where were you primarily located during the COVID-19 pandemic? ===
+- Germany (combined total): 87.5%
+- India: 9.4%
+- At home: 3.1%
+
+
+
+
+  
+
