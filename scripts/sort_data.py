@@ -14,10 +14,7 @@ def deduplicate_columns(columns):
     seen = {}
     new_cols = []
     for col in columns:
-        if pd.isna(col):
-            base = "Unnamed"
-        else:
-            base = str(col).strip()
+        base = str(col).strip() if not pd.isna(col) else "Unnamed"
         if base not in seen:
             seen[base] = 0
             new_cols.append(base)
@@ -32,29 +29,34 @@ cleaned_columns = df_survey.columns.str.replace(r"\s+", " ", regex=True).str.str
 df_survey.columns = deduplicate_columns(cleaned_columns)
 df = df_survey.dropna(axis=1, how="all")
 
-# === Gruppiere Spaltenvarianten für Phasenzuordnung ===
+# === Column grouping by base question name ===
 question_variants = defaultdict(list)
 for col in df.columns:
-    base = re.sub(r"\.\d+$", "", col).strip()
+    base = re.sub(r"\s*\.\d+$", "", col).strip()
     question_variants[base].append(col)
 
-def get_phase_by_index(col, variants):
-    index = variants.index(col)
-    if len(variants) == 3:
-        return ['before', 'during', 'after'][index]
-    elif len(variants) == 2:
+# === Phase Assignment Function (Updated) ===
+def get_phase_by_index(col, variants, df):
+    phase_order = ['before', 'during', 'after']
+    variants_sorted = sorted(variants, key=lambda c:df.columns.get_indexer_for([c])[0])
+    index = variants_sorted.index(col)
+    if len(variants_sorted) >= 3:
+        return phase_order[index]
+    elif len(variants_sorted) == 2:
         return ['before', 'after'][index]
+    elif len(variants_sorted) == 1:
+        return 'yes/no'
     else:
-        return 'unspecified'
+        return 'unknown'
 
 # === Identify Open Text Columns ===
 text_questions = {}
+skipped_texts = []
 
 with open(TEXT_OUTPUT_FILE, "w", encoding="utf-8") as f:
     for base, variants in question_variants.items():
-        sorted_variants = sorted(variants)
-        for col in sorted_variants:
-            phase = get_phase_by_index(col, sorted_variants)
+        for col in sorted(variants, key=lambda c: df.columns.get_indexer_for([c])[0]):
+            phase = get_phase_by_index(col, variants, df)
 
             if any(s in col for s in ["[Punktzahl]", "[Feedback]", "Unnamed", "Gesamtpunktzahl", "Zeitstempel"]):
                 continue
@@ -72,14 +74,20 @@ with open(TEXT_OUTPUT_FILE, "w", encoding="utf-8") as f:
                 if len(responses) >= 1 and responses.str.len().max() > 10:
                     question_key = f"{base} [{phase}]"
                     text_questions[question_key] = responses.tolist()
+                else:
+                    skipped_texts.append(base)
 
-    # Write responses
     for question, responses in text_questions.items():
         f.write(f"\n=== {question} ===\n")
         for resp in responses:
             f.write(f"- {resp}\n")
 
 print(f"\n✅ Exported {len(text_questions)} open text questions to text_responses.txt")
+
+if skipped_texts:
+    print("\n⚠️ Skipped short text questions:")
+    for q in skipped_texts:
+        print("-", q)
 
 # === Identify and Normalize Likert + Yes/No Questions ===
 likert_pattern = re.compile(r"^\d+ - ")
@@ -88,32 +96,39 @@ yesno_pattern = re.compile(r"^(Yes|No)$", re.IGNORECASE)
 likert_rows = []
 
 for base, variants in question_variants.items():
-    sorted_variants = sorted(variants)
-    for col in sorted_variants:
-        phase = get_phase_by_index(col, sorted_variants)
+    for col in sorted(variants, key=lambda c: df.columns.get_indexer_for([c])[0]):
+        phase = get_phase_by_index(col, variants, df)
 
-        if any(s in col for s in ["[Punktzahl]", "[Feedback]", "Unnamed"]):
+        if any(s in col for s in ["[Punktzahl]", "Feedback", "Unnamed", "Gesamtpunktzahl", "Zeitstempel"]):
             continue
 
         series = df[col]
         if isinstance(series, pd.DataFrame):
             series = series.iloc[:, 0]
-        series = series.dropna().astype(str).str.strip()
+        series = series.astype(str).str.strip()
 
-        is_likert = series.str.match(likert_pattern).mean() > 0.6
-        is_yesno = series.str.match(yesno_pattern).mean() > 0.8
+        likert_ratio = series.str.match(likert_pattern).mean()
+        yesno_ratio = series.str.match(yesno_pattern).mean()
+        is_likert = likert_ratio > 0.6
+        is_yesno = yesno_ratio > 0.8
 
         if not (is_likert or is_yesno):
             continue
 
-        for i, (idx, val) in enumerate(series.items(), start=1):
+        for idx, val in series.items():
+            val = val.strip()
+            if val == "" or val.lower() == "nan":
+                continue
             response = val.capitalize() if is_yesno else val
             likert_rows.append({
-                "participant": i,
+                "participant": idx,
                 "question": base,
+                "original_column": col,
                 "phase": phase,
                 "response": response
             })
+
+print(f"\n✅ Extracted {len(set([row['question'] for row in likert_rows]))} Likert/Yes/No questions")
 
 # === Extract Participant Info ===
 participant_questions = [
@@ -129,14 +144,13 @@ participant_questions = [
 ]
 
 participant_cols = [col for col in df.columns if col in participant_questions]
-
 participant_df = df[participant_cols].copy()
 participant_df.to_csv(PARTICIPANT_INFO_FILE, index=False)
 
 print(f"✅ Saved participant demographic info to {PARTICIPANT_INFO_FILE.name} with shape {participant_df.shape}")
 
-# === Save Likert/YesNo responses to CSV ===
+# === Save Likert/YesNo responses ===
 likert_df = pd.DataFrame(likert_rows)
 likert_df.to_csv(LIKERT_OUTPUT_FILE, index=False)
 
-print(f"\n✅ Normalized Likert responses saved to likert_responses.csv with shape {likert_df.shape}")
+print(f"\n✅ Normalized Likert responses saved to {LIKERT_OUTPUT_FILE.name} with shape {likert_df.shape}")
