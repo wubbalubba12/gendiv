@@ -33,7 +33,29 @@ df = df_survey.dropna(axis=1, how="all")
 question_variants = defaultdict(list)
 for col in df.columns:
     base = re.sub(r"\s*\.\d+$", "", col).strip()
+    base = re.sub(r"\s+", " ", base)
     question_variants[base].append(col)
+
+# Manual override for the academic task question
+def assign_special_case_phases(df):
+    # Match deduplicated base names
+    base_name = "Were you able to stay on top of your academic tasks during this time? (Question inspired by Ralph et al. (2020))"
+    
+    task_question_cols = [col for col in df.columns if base_name in col]
+
+    if len(task_question_cols) < 3:
+        raise ValueError(f"Expected 3 columns for special case, found {len(task_question_cols)}: {task_question_cols}")
+
+    # Use column positions to ensure consistent order
+    sorted_cols = sorted(task_question_cols, key=lambda c: df.columns.get_indexer_for([c])[0])
+
+    # Assign phases manually
+    phase_map = {
+        sorted_cols[0]: "before",
+        sorted_cols[1]: "during",
+        sorted_cols[2]: "after"
+    }
+    return phase_map
 
 # === Phase Assignment Function (Updated) ===
 def get_phase_by_index(col, variants, df):
@@ -90,14 +112,19 @@ if skipped_texts:
         print("-", q)
 
 # === Identify and Normalize Likert + Yes/No Questions ===
-likert_pattern = re.compile(r"^\d+ - ")
-yesno_pattern = re.compile(r"^(Yes|No)$", re.IGNORECASE)
+likert_pattern = re.compile(r"^\d+\s*-\s*.+")
+yesno_pattern = re.compile(r"^(yes|no)$", re.IGNORECASE)
 
 likert_rows = []
 
+special_phase_map = assign_special_case_phases(df)  # Add this before the loops
+
 for base, variants in question_variants.items():
     for col in sorted(variants, key=lambda c: df.columns.get_indexer_for([c])[0]):
-        phase = get_phase_by_index(col, variants, df)
+        if col in special_phase_map:
+            phase = special_phase_map[col]
+        else:
+            phase = get_phase_by_index(col, variants, df)
 
         if any(s in col for s in ["[Punktzahl]", "Feedback", "Unnamed", "Gesamtpunktzahl", "Zeitstempel"]):
             continue
@@ -113,13 +140,19 @@ for base, variants in question_variants.items():
         is_yesno = yesno_ratio > 0.8
 
         if not (is_likert or is_yesno):
-            continue
+            unique_vals = series.dropna().unique()
+            if 1 < len(unique_vals) <= 6:
+                is_fallback = True
+            else:
+                continue
+        else:
+            is_fallback = False
 
         for idx, val in series.items():
             val = val.strip()
             if val == "" or val.lower() == "nan":
                 continue
-            response = val.capitalize() if is_yesno else val
+            response = val.capitalize() if is_yesno else val.strip()
             likert_rows.append({
                 "participant": idx,
                 "question": base,
