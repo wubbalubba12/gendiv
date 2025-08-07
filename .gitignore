@@ -16,13 +16,6 @@ venv/
 # VS Code settings
 .vscode/
 
-# Plot image outputs
-plots/*.png
-plots/*.jpg
-plots/*.jpeg
-plots/*.svg
-plots/*.pdf
-
 # MacOS metadata
 .DS_Store
 
